@@ -24,15 +24,14 @@ stages.
 
 ## Project Structure
 
-- `notebooks/` : Contains Jupyter notebooks for different stages of the
+- `notebooks/` : Contains Jupyter/Colab notebooks for different stages of the
   machine learning pipeline.
 - `data/` : Contains the datasets used throughout the project.
-- `results/` : Contains generated visualizations and preprocessing outputs.
-- `02_Group_Pipeline/` : Contains the integrated group preprocessing
-  pipeline.
-- `03_Final_Output/` : Contains the final outputs generated from the
-  preprocessing stage.
-- `04_Documentation/` : Contains project documentation and related files.
+- `EDA/` : Contains generated EDA visualizations for the preprocessing
+  techniques.
+- `outputs/` : Contains the generated preprocessing outputs and results.
+- `Group_Preprocessing_Pipeline/` : Contains the integrated group
+  preprocessing pipeline.
 
 ## Data Preprocessing
 
