@@ -1,0 +1,29 @@
+Member 01 - Image Resizing
+
+Preprocessing Technique:
+Image Resizing
+
+Target Image Size:
+224 × 224 pixels
+
+Original Dataset:
+20-class crop disease dataset
+
+Original Image Count:
+Train: 11,663
+Validation: 2,012
+Total: 13,675
+
+Resizing Method:
+Pillow Image.Resampling.LANCZOS
+
+Final Image Size:
+224 × 224 for all images
+
+Verification:
+All resized images were checked and confirmed as 224 × 224.
+No image processing errors were found during verification.
+
+EDA Outputs:
+1. Original_Image_Dimensions.png
+2. Original_vs_Resized.png
