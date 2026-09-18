@@ -24,7 +24,7 @@ stages.
 
 ## Project Structure
 
-- `notebooks/` : Contains Jupyter/Colab notebooks for different stages of the
+- `notebooks/` : Contains Jupyter notebooks for different stages of the
   machine learning pipeline.
 - `data/` : Contains the datasets used throughout the project.
 - `EDA/` : Contains generated EDA visualizations for the preprocessing
@@ -32,7 +32,7 @@ stages.
 - `outputs/` : Contains the generated preprocessing outputs and results.
 - `Group_Preprocessing_Pipeline/` : Contains the integrated group
   preprocessing pipeline.
-
+  
 ## Data Preprocessing
 
 The preprocessing stage prepares the crop disease images for machine
