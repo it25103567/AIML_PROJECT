@@ -12,15 +12,15 @@ stages.
 
 ## Group Members
 
-| Student ID | Student Name |
-|---|---|
-| IT25103052 | Vidhyadhakshini G.I. |
-| IT25103229 | Haadiya M.H. |
-| IT25103233 | Ammara M.S |
-| IT25103274 | Wardini K. R. V. |
-| IT25103371 | Nafas M.K |
-| IT25103567 | Ranasinghe U. I. |
-| IT25103599 | Samararathna D. K. |
+| Student ID | Student Name | Task |
+|---|---|---|
+| IT25103052 | Vidhyadhakshini G.I. | Class Imbalance Handling |
+| IT25103229 | Haadiya M.H. | Pixel Normalization |
+| IT25103233 | Ammara M.S | Image Resizing |
+| IT25103274 | Wardini K. R. V. | Image Color/Channel Preprocessing |
+| IT25103371 | Nafas M.K | Data Augmentation |
+| IT25103567 | Ranasinghe U. I. | Categorical Label Encoding |
+| IT25103599 | Samararathna D. K. | Image Quality Enhancement |
 
 ## Project Structure
 
