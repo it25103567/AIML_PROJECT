@@ -1,0 +1,2013 @@
+split,index,class,original_channels,final_channels,was_fixed
+validation,0,Wilt,3,3,False
+validation,1,Wilt,3,3,False
+validation,2,Wilt,3,3,False
+validation,3,Wilt,3,3,False
+validation,4,Wilt,3,3,False
+validation,5,Wilt,3,3,False
+validation,6,Wilt,3,3,False
+validation,7,Wilt,3,3,False
+validation,8,Wilt,3,3,False
+validation,9,Wilt,3,3,False
+validation,10,Wilt,3,3,False
+validation,11,Wilt,3,3,False
+validation,12,Wilt,3,3,False
+validation,13,Wilt,3,3,False
+validation,14,Wilt,3,3,False
+validation,15,Wilt,3,3,False
+validation,16,Wilt,3,3,False
+validation,17,Wilt,3,3,False
+validation,18,Wilt,3,3,False
+validation,19,Wilt,3,3,False
+validation,20,Wilt,3,3,False
+validation,21,Wilt,3,3,False
+validation,22,Wilt,3,3,False
+validation,23,Wilt,3,3,False
+validation,24,Wilt,3,3,False
+validation,25,Wilt,3,3,False
+validation,26,Wilt,3,3,False
+validation,27,Wilt,3,3,False
+validation,28,Wilt,3,3,False
+validation,29,Wilt,3,3,False
+validation,30,Wilt,3,3,False
+validation,31,Wilt,3,3,False
+validation,32,Wilt,3,3,False
+validation,33,Wilt,3,3,False
+validation,34,Wilt,3,3,False
+validation,35,Wilt,3,3,False
+validation,36,Wilt,3,3,False
+validation,37,Wilt,3,3,False
+validation,38,Wilt,3,3,False
+validation,39,Wilt,3,3,False
+validation,40,Wilt,3,3,False
+validation,41,Wilt,3,3,False
+validation,42,Wilt,3,3,False
+validation,43,Wilt,3,3,False
+validation,44,Wilt,3,3,False
+validation,45,Wilt,3,3,False
+validation,46,Wilt,3,3,False
+validation,47,Wilt,3,3,False
+validation,48,Wilt,3,3,False
+validation,49,Wilt,3,3,False
+validation,50,Wilt,3,3,False
+validation,51,Wilt,3,3,False
+validation,52,Wilt,3,3,False
+validation,53,Wilt,3,3,False
+validation,54,Wilt,3,3,False
+validation,55,Wilt,3,3,False
+validation,56,Wilt,3,3,False
+validation,57,Wilt,3,3,False
+validation,58,Wilt,3,3,False
+validation,59,Wilt,3,3,False
+validation,60,Wilt,3,3,False
+validation,61,Wilt,3,3,False
+validation,62,Wilt,3,3,False
+validation,63,Wilt,3,3,False
+validation,64,Wilt,3,3,False
+validation,65,Wilt,3,3,False
+validation,66,Wilt,3,3,False
+validation,67,Wilt,3,3,False
+validation,68,Wilt,3,3,False
+validation,69,Wilt,3,3,False
+validation,70,Wilt,3,3,False
+validation,71,Wilt,3,3,False
+validation,72,Wilt,3,3,False
+validation,73,Wilt,3,3,False
+validation,74,Wilt,3,3,False
+validation,75,Wilt,3,3,False
+validation,76,Wilt,3,3,False
+validation,77,Wilt,3,3,False
+validation,78,Wilt,3,3,False
+validation,79,Wilt,3,3,False
+validation,80,Wilt,3,3,False
+validation,81,Wilt,3,3,False
+validation,82,Wilt,3,3,False
+validation,83,Wilt,3,3,False
+validation,84,Wilt,3,3,False
+validation,85,Wilt,3,3,False
+validation,86,Wilt,3,3,False
+validation,87,Wilt,3,3,False
+validation,88,Wilt,3,3,False
+validation,89,Wilt,3,3,False
+validation,90,Wilt,3,3,False
+validation,91,Wilt,3,3,False
+validation,92,Wilt,3,3,False
+validation,93,Wilt,3,3,False
+validation,94,Wilt,3,3,False
+validation,95,Wilt,3,3,False
+validation,96,Wilt,3,3,False
+validation,97,Wilt,3,3,False
+validation,98,Wilt,3,3,False
+validation,99,Wilt,3,3,False
+validation,100,Wilt,3,3,False
+validation,101,Wilt,3,3,False
+validation,102,Wilt,3,3,False
+validation,103,Wilt,3,3,False
+validation,104,Wilt,3,3,False
+validation,105,Wilt,3,3,False
+validation,106,Wilt,3,3,False
+validation,107,Wilt,3,3,False
+validation,108,Wilt,3,3,False
+validation,109,Wilt,3,3,False
+validation,110,Wilt,3,3,False
+validation,111,Wilt,3,3,False
+validation,112,Wilt,3,3,False
+validation,113,Wilt,3,3,False
+validation,114,Wilt,3,3,False
+validation,115,Wilt,3,3,False
+validation,116,Wilt,3,3,False
+validation,117,Wilt,3,3,False
+validation,118,Wilt,3,3,False
+validation,119,Wilt,3,3,False
+validation,120,Wilt,3,3,False
+validation,121,Wilt,3,3,False
+validation,122,Wilt,3,3,False
+validation,123,Wilt,3,3,False
+validation,124,Wilt,3,3,False
+validation,125,Wilt,3,3,False
+validation,126,Wilt,3,3,False
+validation,127,Wilt,3,3,False
+validation,128,Wilt,3,3,False
+validation,129,Wilt,3,3,False
+validation,130,Wilt,3,3,False
+validation,131,Wilt,3,3,False
+validation,132,Wilt,3,3,False
+validation,133,Wilt,3,3,False
+validation,134,Wilt,3,3,False
+validation,135,Wilt,3,3,False
+validation,136,Wilt,3,3,False
+validation,137,Wilt,3,3,False
+validation,138,Wilt,3,3,False
+validation,139,Wilt,3,3,False
+validation,140,Wilt,3,3,False
+validation,141,Wilt,3,3,False
+validation,142,Wilt,3,3,False
+validation,143,Wilt,3,3,False
+validation,144,Wilt,3,3,False
+validation,145,Wilt,3,3,False
+validation,146,Wilt,3,3,False
+validation,147,Wilt,3,3,False
+validation,148,Wilt,3,3,False
+validation,149,Wilt,3,3,False
+validation,150,Wilt,3,3,False
+validation,151,Wilt,3,3,False
+validation,152,Wilt,3,3,False
+validation,153,Wilt,3,3,False
+validation,154,Wilt,3,3,False
+validation,155,Wilt,3,3,False
+validation,156,Wilt,3,3,False
+validation,157,Wilt,3,3,False
+validation,158,Wilt,3,3,False
+validation,159,Wilt,3,3,False
+validation,160,Wilt,3,3,False
+validation,161,Wilt,3,3,False
+validation,162,Wilt,3,3,False
+validation,163,Wilt,3,3,False
+validation,164,Wilt,3,3,False
+validation,165,Wilt,3,3,False
+validation,166,Wilt,3,3,False
+validation,167,Wilt,3,3,False
+validation,168,Wilt,3,3,False
+validation,169,Wilt,3,3,False
+validation,170,Wilt,3,3,False
+validation,171,Wilt,3,3,False
+validation,172,Wilt,3,3,False
+validation,173,Wilt,3,3,False
+validation,174,Wilt,3,3,False
+validation,175,Wilt,3,3,False
+validation,176,Wilt,3,3,False
+validation,177,Wilt,3,3,False
+validation,178,Wilt,3,3,False
+validation,179,Wilt,3,3,False
+validation,180,Wilt,3,3,False
+validation,181,Wilt,3,3,False
+validation,182,Wilt,3,3,False
+validation,183,Wilt,3,3,False
+validation,184,Wilt,3,3,False
+validation,185,Wilt,3,3,False
+validation,186,Wilt,3,3,False
+validation,187,Wilt,3,3,False
+validation,188,Wilt,3,3,False
+validation,189,Wilt,3,3,False
+validation,190,Wilt,3,3,False
+validation,191,Wilt,3,3,False
+validation,192,Wilt,3,3,False
+validation,193,Wilt,3,3,False
+validation,194,Wilt,3,3,False
+validation,195,Wilt,3,3,False
+validation,196,Wilt,3,3,False
+validation,197,Wilt,3,3,False
+validation,198,Wilt,3,3,False
+validation,199,Wilt,3,3,False
+validation,200,Wilt,3,3,False
+validation,201,Wilt,3,3,False
+validation,202,Wilt,3,3,False
+validation,203,Wilt,3,3,False
+validation,204,Wilt,3,3,False
+validation,205,Wilt,3,3,False
+validation,206,Wilt,3,3,False
+validation,207,Wilt,3,3,False
+validation,208,Wilt,3,3,False
+validation,209,Wilt,3,3,False
+validation,210,Wilt,3,3,False
+validation,211,Wilt,3,3,False
+validation,212,Wilt,3,3,False
+validation,213,Wilt,3,3,False
+validation,214,Wilt,3,3,False
+validation,215,Wilt,3,3,False
+validation,216,Wilt,3,3,False
+validation,217,Wilt,3,3,False
+validation,218,Wilt,3,3,False
+validation,219,Wilt,3,3,False
+validation,220,Wilt,3,3,False
+validation,221,Wilt,3,3,False
+validation,222,Wilt,3,3,False
+validation,223,Wilt,3,3,False
+validation,224,Wilt,3,3,False
+validation,225,Wilt,3,3,False
+validation,226,Wilt,3,3,False
+validation,227,Wilt,3,3,False
+validation,228,Wilt,3,3,False
+validation,229,Wilt,3,3,False
+validation,230,Wilt,3,3,False
+validation,231,Wilt,3,3,False
+validation,232,Wilt,3,3,False
+validation,233,Wilt,3,3,False
+validation,234,Wilt,3,3,False
+validation,235,Wilt,3,3,False
+validation,236,Wilt,3,3,False
+validation,237,Wilt,3,3,False
+validation,238,Wilt,3,3,False
+validation,239,Wilt,3,3,False
+validation,240,Wilt,3,3,False
+validation,241,Wilt,3,3,False
+validation,242,Wilt,3,3,False
+validation,243,Wilt,3,3,False
+validation,244,Wilt,3,3,False
+validation,245,Wilt,3,3,False
+validation,246,Wilt,3,3,False
+validation,247,Wilt,3,3,False
+validation,248,Wilt,3,3,False
+validation,249,Wilt,3,3,False
+validation,250,Wilt,3,3,False
+validation,251,Wilt,3,3,False
+validation,252,Wilt,3,3,False
+validation,253,Wilt,3,3,False
+validation,254,Wilt,3,3,False
+validation,255,Wilt,3,3,False
+validation,256,Wilt,3,3,False
+validation,257,Wilt,3,3,False
+validation,258,Wilt,3,3,False
+validation,259,Wilt,3,3,False
+validation,260,Wilt,3,3,False
+validation,261,Wilt,3,3,False
+validation,262,Wilt,3,3,False
+validation,263,Wilt,3,3,False
+validation,264,Wilt,3,3,False
+validation,265,Wilt,3,3,False
+validation,266,Wilt,3,3,False
+validation,267,Wilt,3,3,False
+validation,268,Wilt,3,3,False
+validation,269,Wilt,3,3,False
+validation,270,Wilt,3,3,False
+validation,271,Wilt,3,3,False
+validation,272,Wilt,3,3,False
+validation,273,Wilt,3,3,False
+validation,274,Wilt,3,3,False
+validation,275,Wilt,3,3,False
+validation,276,Wilt,3,3,False
+validation,277,Wilt,3,3,False
+validation,278,Wilt,3,3,False
+validation,279,Wilt,3,3,False
+validation,280,Wilt,3,3,False
+validation,281,Wilt,3,3,False
+validation,282,Wilt,3,3,False
+validation,283,Wilt,3,3,False
+validation,284,Wilt,3,3,False
+validation,285,Wilt,3,3,False
+validation,286,Wilt,3,3,False
+validation,287,Wilt,3,3,False
+validation,288,Wilt,3,3,False
+validation,289,Wilt,3,3,False
+validation,290,Wilt,3,3,False
+validation,291,Wilt,3,3,False
+validation,292,Wilt,3,3,False
+validation,293,Wilt,3,3,False
+validation,294,Wilt,3,3,False
+validation,295,Wilt,3,3,False
+validation,296,Wilt,3,3,False
+validation,297,Wilt,3,3,False
+validation,298,Wilt,3,3,False
+validation,299,Wilt,3,3,False
+validation,300,Wilt,3,3,False
+validation,301,Wilt,3,3,False
+validation,302,Wilt,3,3,False
+validation,303,Wilt,3,3,False
+validation,304,Wilt,3,3,False
+validation,305,Wilt,3,3,False
+validation,306,Wilt,3,3,False
+validation,307,Wilt,3,3,False
+validation,308,Wilt,3,3,False
+validation,309,Wilt,3,3,False
+validation,310,Wilt,3,3,False
+validation,311,Wilt,3,3,False
+validation,312,Wilt,3,3,False
+validation,313,Wilt,3,3,False
+validation,314,Wilt,3,3,False
+validation,315,Wilt,3,3,False
+validation,316,Wilt,3,3,False
+validation,317,Wilt,3,3,False
+validation,318,Wilt,3,3,False
+validation,319,Wilt,3,3,False
+validation,320,Wilt,3,3,False
+validation,321,Wilt,3,3,False
+validation,322,Wilt,3,3,False
+validation,323,Wilt,3,3,False
+validation,324,Wilt,3,3,False
+validation,325,Wilt,3,3,False
+validation,326,Wilt,3,3,False
+validation,327,Wilt,3,3,False
+validation,328,Wilt,3,3,False
+validation,329,Wilt,3,3,False
+validation,330,Wilt,3,3,False
+validation,331,Wilt,3,3,False
+validation,332,Wilt,3,3,False
+validation,333,Wilt,3,3,False
+validation,334,Wilt,3,3,False
+validation,335,Wilt,3,3,False
+validation,336,Wilt,3,3,False
+validation,337,Wilt,3,3,False
+validation,338,Wilt,3,3,False
+validation,339,Wilt,3,3,False
+validation,340,Wilt,3,3,False
+validation,341,Wilt,3,3,False
+validation,342,Wilt,3,3,False
+validation,343,Wilt,3,3,False
+validation,344,Wilt,3,3,False
+validation,345,Wilt,3,3,False
+validation,346,Wilt,3,3,False
+validation,347,Wilt,3,3,False
+validation,348,Wilt,3,3,False
+validation,349,Wilt,3,3,False
+validation,350,Wilt,3,3,False
+validation,351,Wilt,3,3,False
+validation,352,Wilt,3,3,False
+validation,353,Wilt,3,3,False
+validation,354,Wilt,3,3,False
+validation,355,Wilt,3,3,False
+validation,356,Wilt,3,3,False
+validation,357,Wilt,3,3,False
+validation,358,Wilt,3,3,False
+validation,359,Wilt,3,3,False
+validation,360,Wilt,3,3,False
+validation,361,Wilt,3,3,False
+validation,362,Wilt,3,3,False
+validation,363,Wilt,3,3,False
+validation,364,Wilt,3,3,False
+validation,365,Wilt,3,3,False
+validation,366,Wilt,3,3,False
+validation,367,Wilt,3,3,False
+validation,368,Wilt,3,3,False
+validation,369,Wilt,3,3,False
+validation,370,Wilt,3,3,False
+validation,371,Wilt,3,3,False
+validation,372,Wilt,3,3,False
+validation,373,Wilt,3,3,False
+validation,374,Wilt,3,3,False
+validation,375,Wilt,3,3,False
+validation,376,Wilt,3,3,False
+validation,377,Wilt,3,3,False
+validation,378,Wilt,3,3,False
+validation,379,Wilt,3,3,False
+validation,380,Wilt,3,3,False
+validation,381,Wilt,3,3,False
+validation,382,Wilt,3,3,False
+validation,383,Wilt,3,3,False
+validation,384,Wilt,3,3,False
+validation,385,Wilt,3,3,False
+validation,386,Wilt,3,3,False
+validation,387,Wilt,3,3,False
+validation,388,Wilt,3,3,False
+validation,389,Wilt,3,3,False
+validation,390,Wilt,3,3,False
+validation,391,Wilt,3,3,False
+validation,392,Wilt,3,3,False
+validation,393,Wilt,3,3,False
+validation,394,Wilt,3,3,False
+validation,395,Wilt,3,3,False
+validation,396,Wilt,3,3,False
+validation,397,Wilt,3,3,False
+validation,398,Wilt,3,3,False
+validation,399,Wilt,3,3,False
+validation,400,Wilt,3,3,False
+validation,401,Wilt,3,3,False
+validation,402,Wilt,3,3,False
+validation,403,Wilt,3,3,False
+validation,404,Wilt,3,3,False
+validation,405,Wilt,3,3,False
+validation,406,Wilt,3,3,False
+validation,407,Wilt,3,3,False
+validation,408,Wilt,3,3,False
+validation,409,Wilt,3,3,False
+validation,410,Wilt,3,3,False
+validation,411,Wilt,3,3,False
+validation,412,Wilt,3,3,False
+validation,413,Wilt,3,3,False
+validation,414,Wilt,3,3,False
+validation,415,Wilt,3,3,False
+validation,416,Wilt,3,3,False
+validation,417,Wilt,3,3,False
+validation,418,Wilt,3,3,False
+validation,419,red cotton bug,3,3,False
+validation,420,red cotton bug,3,3,False
+validation,421,red cotton bug,3,3,False
+validation,422,red cotton bug,3,3,False
+validation,423,red cotton bug,3,3,False
+validation,424,red cotton bug,3,3,False
+validation,425,red cotton bug,3,3,False
+validation,426,red cotton bug,3,3,False
+validation,427,red cotton bug,3,3,False
+validation,428,red cotton bug,3,3,False
+validation,429,red cotton bug,3,3,False
+validation,430,red cotton bug,3,3,False
+validation,431,red cotton bug,3,3,False
+validation,432,red cotton bug,3,3,False
+validation,433,red cotton bug,3,3,False
+validation,434,red cotton bug,3,3,False
+validation,435,red cotton bug,3,3,False
+validation,436,red cotton bug,3,3,False
+validation,437,red cotton bug,3,3,False
+validation,438,red cotton bug,3,3,False
+validation,439,red cotton bug,3,3,False
+validation,440,red cotton bug,3,3,False
+validation,441,red cotton bug,3,3,False
+validation,442,red cotton bug,3,3,False
+validation,443,red cotton bug,3,3,False
+validation,444,red cotton bug,3,3,False
+validation,445,red cotton bug,3,3,False
+validation,446,red cotton bug,3,3,False
+validation,447,red cotton bug,3,3,False
+validation,448,red cotton bug,3,3,False
+validation,449,red cotton bug,3,3,False
+validation,450,red cotton bug,3,3,False
+validation,451,red cotton bug,3,3,False
+validation,452,red cotton bug,3,3,False
+validation,453,red cotton bug,3,3,False
+validation,454,red cotton bug,3,3,False
+validation,455,red cotton bug,3,3,False
+validation,456,red cotton bug,3,3,False
+validation,457,red cotton bug,3,3,False
+validation,458,red cotton bug,3,3,False
+validation,459,red cotton bug,3,3,False
+validation,460,red cotton bug,3,3,False
+validation,461,red cotton bug,3,3,False
+validation,462,red cotton bug,3,3,False
+validation,463,Wheat black rust,3,3,False
+validation,464,Wheat black rust,3,3,False
+validation,465,Wheat black rust,3,3,False
+validation,466,Wheat black rust,3,3,False
+validation,467,Wheat black rust,3,3,False
+validation,468,Wheat black rust,3,3,False
+validation,469,Wheat black rust,3,3,False
+validation,470,Wheat black rust,3,3,False
+validation,471,Wheat black rust,3,3,False
+validation,472,Wheat black rust,3,3,False
+validation,473,Wheat black rust,3,3,False
+validation,474,Wheat black rust,3,3,False
+validation,475,Wheat black rust,3,3,False
+validation,476,Wheat black rust,3,3,False
+validation,477,Wheat black rust,3,3,False
+validation,478,Wheat black rust,3,3,False
+validation,479,Wheat black rust,3,3,False
+validation,480,Wheat black rust,3,3,False
+validation,481,Wheat black rust,3,3,False
+validation,482,Wheat black rust,3,3,False
+validation,483,Wheat black rust,3,3,False
+validation,484,Wheat black rust,3,3,False
+validation,485,Wheat black rust,3,3,False
+validation,486,Wheat black rust,3,3,False
+validation,487,Wheat black rust,3,3,False
+validation,488,Wheat black rust,3,3,False
+validation,489,Wheat black rust,3,3,False
+validation,490,Wheat black rust,3,3,False
+validation,491,Wheat black rust,3,3,False
+validation,492,Wheat black rust,3,3,False
+validation,493,Wheat black rust,3,3,False
+validation,494,Wheat black rust,3,3,False
+validation,495,Wheat black rust,3,3,False
+validation,496,Wheat black rust,3,3,False
+validation,497,Wheat black rust,3,3,False
+validation,498,Wheat black rust,3,3,False
+validation,499,Wheat black rust,3,3,False
+validation,500,Wheat black rust,3,3,False
+validation,501,Wheat black rust,3,3,False
+validation,502,Wheat black rust,3,3,False
+validation,503,Wheat black rust,3,3,False
+validation,504,Wheat black rust,3,3,False
+validation,505,Wheat black rust,3,3,False
+validation,506,Wheat black rust,3,3,False
+validation,507,Wheat black rust,3,3,False
+validation,508,Wheat black rust,3,3,False
+validation,509,Wheat black rust,3,3,False
+validation,510,Wheat black rust,3,3,False
+validation,511,Wheat black rust,3,3,False
+validation,512,Wheat black rust,3,3,False
+validation,513,Wheat black rust,3,3,False
+validation,514,Wheat black rust,3,3,False
+validation,515,Wheat black rust,3,3,False
+validation,516,Wheat black rust,3,3,False
+validation,517,Wheat black rust,3,3,False
+validation,518,Wheat black rust,3,3,False
+validation,519,Wheat black rust,3,3,False
+validation,520,Wheat black rust,3,3,False
+validation,521,Wheat black rust,3,3,False
+validation,522,Wheat black rust,3,3,False
+validation,523,Wheat black rust,3,3,False
+validation,524,Wheat black rust,3,3,False
+validation,525,Wheat black rust,3,3,False
+validation,526,Wheat black rust,3,3,False
+validation,527,Wheat black rust,3,3,False
+validation,528,Wheat black rust,3,3,False
+validation,529,Wheat black rust,3,3,False
+validation,530,Wheat black rust,3,3,False
+validation,531,Wheat black rust,3,3,False
+validation,532,Wheat black rust,3,3,False
+validation,533,Tungro,3,3,False
+validation,534,Tungro,3,3,False
+validation,535,Tungro,3,3,False
+validation,536,Tungro,3,3,False
+validation,537,Tungro,3,3,False
+validation,538,Tungro,3,3,False
+validation,539,Tungro,3,3,False
+validation,540,Tungro,3,3,False
+validation,541,Tungro,3,3,False
+validation,542,Wheat powdery mildew,3,3,False
+validation,543,Wheat powdery mildew,3,3,False
+validation,544,Wheat powdery mildew,3,3,False
+validation,545,Wheat powdery mildew,3,3,False
+validation,546,Wheat powdery mildew,3,3,False
+validation,547,Wheat powdery mildew,3,3,False
+validation,548,Wheat powdery mildew,3,3,False
+validation,549,Wheat powdery mildew,3,3,False
+validation,550,Wheat powdery mildew,3,3,False
+validation,551,Wheat powdery mildew,3,3,False
+validation,552,Wheat powdery mildew,3,3,False
+validation,553,Wheat powdery mildew,3,3,False
+validation,554,Wheat powdery mildew,3,3,False
+validation,555,Wheat powdery mildew,3,3,False
+validation,556,Wheat powdery mildew,3,3,False
+validation,557,Wheat powdery mildew,3,3,False
+validation,558,Wheat powdery mildew,3,3,False
+validation,559,Wheat powdery mildew,3,3,False
+validation,560,Wheat powdery mildew,3,3,False
+validation,561,Wheat powdery mildew,3,3,False
+validation,562,Wheat powdery mildew,3,3,False
+validation,563,Wheat powdery mildew,3,3,False
+validation,564,Wheat powdery mildew,3,3,False
+validation,565,Wheat powdery mildew,3,3,False
+validation,566,Wheat powdery mildew,3,3,False
+validation,567,Wheat powdery mildew,3,3,False
+validation,568,Wheat powdery mildew,3,3,False
+validation,569,Wheat powdery mildew,3,3,False
+validation,570,Wheat powdery mildew,3,3,False
+validation,571,Wheat powdery mildew,3,3,False
+validation,572,Wheat powdery mildew,3,3,False
+validation,573,Wheat powdery mildew,3,3,False
+validation,574,Wheat powdery mildew,3,3,False
+validation,575,Wheat powdery mildew,3,3,False
+validation,576,Wheat powdery mildew,3,3,False
+validation,577,Wheat powdery mildew,3,3,False
+validation,578,Wheat powdery mildew,3,3,False
+validation,579,Wheat powdery mildew,3,3,False
+validation,580,Wheat powdery mildew,3,3,False
+validation,581,Wheat powdery mildew,3,3,False
+validation,582,Wheat powdery mildew,3,3,False
+validation,583,Wheat powdery mildew,3,3,False
+validation,584,Mosaic sugarcane,3,3,False
+validation,585,Mosaic sugarcane,3,3,False
+validation,586,Mosaic sugarcane,3,3,False
+validation,587,Mosaic sugarcane,3,3,False
+validation,588,Mosaic sugarcane,3,3,False
+validation,589,Mosaic sugarcane,3,3,False
+validation,590,Mosaic sugarcane,3,3,False
+validation,591,Mosaic sugarcane,3,3,False
+validation,592,Mosaic sugarcane,3,3,False
+validation,593,Mosaic sugarcane,3,3,False
+validation,594,Mosaic sugarcane,3,3,False
+validation,595,Mosaic sugarcane,3,3,False
+validation,596,Mosaic sugarcane,3,3,False
+validation,597,Mosaic sugarcane,3,3,False
+validation,598,Mosaic sugarcane,3,3,False
+validation,599,Mosaic sugarcane,3,3,False
+validation,600,Mosaic sugarcane,3,3,False
+validation,601,Mosaic sugarcane,3,3,False
+validation,602,Mosaic sugarcane,3,3,False
+validation,603,Mosaic sugarcane,3,3,False
+validation,604,Mosaic sugarcane,3,3,False
+validation,605,Mosaic sugarcane,3,3,False
+validation,606,Mosaic sugarcane,3,3,False
+validation,607,Mosaic sugarcane,3,3,False
+validation,608,Mosaic sugarcane,3,3,False
+validation,609,Mosaic sugarcane,3,3,False
+validation,610,Mosaic sugarcane,3,3,False
+validation,611,Mosaic sugarcane,3,3,False
+validation,612,Mosaic sugarcane,3,3,False
+validation,613,Mosaic sugarcane,3,3,False
+validation,614,Mosaic sugarcane,3,3,False
+validation,615,Mosaic sugarcane,3,3,False
+validation,616,Mosaic sugarcane,3,3,False
+validation,617,Mosaic sugarcane,3,3,False
+validation,618,Mosaic sugarcane,3,3,False
+validation,619,Mosaic sugarcane,3,3,False
+validation,620,Mosaic sugarcane,3,3,False
+validation,621,Mosaic sugarcane,3,3,False
+validation,622,Mosaic sugarcane,3,3,False
+validation,623,Mosaic sugarcane,3,3,False
+validation,624,Mosaic sugarcane,3,3,False
+validation,625,Mosaic sugarcane,3,3,False
+validation,626,Mosaic sugarcane,3,3,False
+validation,627,Mosaic sugarcane,3,3,False
+validation,628,Mosaic sugarcane,3,3,False
+validation,629,Mosaic sugarcane,3,3,False
+validation,630,Mosaic sugarcane,3,3,False
+validation,631,Mosaic sugarcane,3,3,False
+validation,632,Mosaic sugarcane,3,3,False
+validation,633,Mosaic sugarcane,3,3,False
+validation,634,Mosaic sugarcane,3,3,False
+validation,635,Mosaic sugarcane,3,3,False
+validation,636,Mosaic sugarcane,3,3,False
+validation,637,Mosaic sugarcane,3,3,False
+validation,638,Mosaic sugarcane,3,3,False
+validation,639,Mosaic sugarcane,3,3,False
+validation,640,Mosaic sugarcane,3,3,False
+validation,641,Mosaic sugarcane,3,3,False
+validation,642,Mosaic sugarcane,3,3,False
+validation,643,Mosaic sugarcane,3,3,False
+validation,644,Mosaic sugarcane,3,3,False
+validation,645,Mosaic sugarcane,3,3,False
+validation,646,Mosaic sugarcane,3,3,False
+validation,647,Mosaic sugarcane,3,3,False
+validation,648,Mosaic sugarcane,3,3,False
+validation,649,Mosaic sugarcane,3,3,False
+validation,650,Rice Blast,3,3,False
+validation,651,Rice Blast,3,3,False
+validation,652,Rice Blast,3,3,False
+validation,653,Rice Blast,3,3,False
+validation,654,Rice Blast,3,3,False
+validation,655,Rice Blast,3,3,False
+validation,656,Rice Blast,3,3,False
+validation,657,Rice Blast,3,3,False
+validation,658,Rice Blast,3,3,False
+validation,659,Rice Blast,3,3,False
+validation,660,Rice Blast,3,3,False
+validation,661,Rice Blast,3,3,False
+validation,662,Rice Blast,3,3,False
+validation,663,Rice Blast,3,3,False
+validation,664,Rice Blast,3,3,False
+validation,665,Rice Blast,3,3,False
+validation,666,Rice Blast,3,3,False
+validation,667,Rice Blast,3,3,False
+validation,668,Rice Blast,3,3,False
+validation,669,Rice Blast,3,3,False
+validation,670,Rice Blast,3,3,False
+validation,671,Rice Blast,3,3,False
+validation,672,Rice Blast,3,3,False
+validation,673,Rice Blast,3,3,False
+validation,674,Rice Blast,3,3,False
+validation,675,Rice Blast,3,3,False
+validation,676,Rice Blast,3,3,False
+validation,677,Rice Blast,3,3,False
+validation,678,Rice Blast,3,3,False
+validation,679,Rice Blast,3,3,False
+validation,680,Rice Blast,3,3,False
+validation,681,Rice Blast,3,3,False
+validation,682,Rice Blast,3,3,False
+validation,683,Rice Blast,3,3,False
+validation,684,Rice Blast,3,3,False
+validation,685,Rice Blast,3,3,False
+validation,686,Rice Blast,3,3,False
+validation,687,Rice Blast,3,3,False
+validation,688,Rice Blast,3,3,False
+validation,689,Rice Blast,3,3,False
+validation,690,Rice Blast,3,3,False
+validation,691,Rice Blast,3,3,False
+validation,692,Rice Blast,3,3,False
+validation,693,Rice Blast,3,3,False
+validation,694,Wheat Stem fly,3,3,False
+validation,695,Wheat Stem fly,3,3,False
+validation,696,Wheat Stem fly,3,3,False
+validation,697,Wheat Stem fly,3,3,False
+validation,698,Wheat Stem fly,3,3,False
+validation,699,Wheat Stem fly,3,3,False
+validation,700,Wheat Stem fly,3,3,False
+validation,701,Wheat Stem fly,3,3,False
+validation,702,Wheat Stem fly,3,3,False
+validation,703,Wheat Stem fly,3,3,False
+validation,704,Wheat Stem fly,3,3,False
+validation,705,Wheat Stem fly,3,3,False
+validation,706,Wheat Stem fly,3,3,False
+validation,707,Wheat Stem fly,3,3,False
+validation,708,Wheat Stem fly,3,3,False
+validation,709,Wheat Stem fly,3,3,False
+validation,710,Wheat Stem fly,3,3,False
+validation,711,Wheat Stem fly,3,3,False
+validation,712,Wheat Stem fly,3,3,False
+validation,713,Wheat Stem fly,3,3,False
+validation,714,Wheat Stem fly,3,3,False
+validation,715,Wheat Stem fly,3,3,False
+validation,716,Wheat Stem fly,3,3,False
+validation,717,Wheat Stem fly,3,3,False
+validation,718,Wheat Stem fly,3,3,False
+validation,719,Wheat Stem fly,3,3,False
+validation,720,Wheat Stem fly,3,3,False
+validation,721,Wheat Stem fly,3,3,False
+validation,722,Wheat Stem fly,3,3,False
+validation,723,Wheat Stem fly,3,3,False
+validation,724,Wheat Stem fly,3,3,False
+validation,725,Wheat Stem fly,3,3,False
+validation,726,Wheat Stem fly,3,3,False
+validation,727,Wheat Stem fly,3,3,False
+validation,728,Wheat Stem fly,3,3,False
+validation,729,Wheat Stem fly,3,3,False
+validation,730,Wheat Stem fly,3,3,False
+validation,731,Wheat Stem fly,3,3,False
+validation,732,Wheat Stem fly,3,3,False
+validation,733,Wheat Stem fly,3,3,False
+validation,734,Wheat Stem fly,3,3,False
+validation,735,Wheat Stem fly,3,3,False
+validation,736,Wheat Stem fly,3,3,False
+validation,737,Wheat Stem fly,3,3,False
+validation,738,Wheat Stem fly,3,3,False
+validation,739,Wheat Stem fly,3,3,False
+validation,740,Wheat Stem fly,3,3,False
+validation,741,Wheat Stem fly,3,3,False
+validation,742,Wheat Stem fly,3,3,False
+validation,743,Wheat Stem fly,3,3,False
+validation,744,Wheat Stem fly,3,3,False
+validation,745,Wheat Stem fly,3,3,False
+validation,746,Wheat Stem fly,3,3,False
+validation,747,Wheat Stem fly,3,3,False
+validation,748,Wheat Stem fly,3,3,False
+validation,749,Wheat Stem fly,3,3,False
+validation,750,Wheat Stem fly,3,3,False
+validation,751,Wheat Stem fly,3,3,False
+validation,752,Wheat Stem fly,3,3,False
+validation,753,Wheat Stem fly,3,3,False
+validation,754,Wheat Stem fly,3,3,False
+validation,755,Wheat Stem fly,3,3,False
+validation,756,RedRot sugarcane,3,3,False
+validation,757,RedRot sugarcane,3,3,False
+validation,758,RedRot sugarcane,3,3,False
+validation,759,RedRot sugarcane,3,3,False
+validation,760,RedRot sugarcane,3,3,False
+validation,761,RedRot sugarcane,3,3,False
+validation,762,RedRot sugarcane,3,3,False
+validation,763,RedRot sugarcane,3,3,False
+validation,764,RedRot sugarcane,3,3,False
+validation,765,RedRot sugarcane,3,3,False
+validation,766,RedRot sugarcane,3,3,False
+validation,767,RedRot sugarcane,3,3,False
+validation,768,RedRot sugarcane,3,3,False
+validation,769,RedRot sugarcane,3,3,False
+validation,770,RedRot sugarcane,3,3,False
+validation,771,RedRot sugarcane,3,3,False
+validation,772,RedRot sugarcane,3,3,False
+validation,773,RedRot sugarcane,3,3,False
+validation,774,RedRot sugarcane,3,3,False
+validation,775,RedRot sugarcane,3,3,False
+validation,776,RedRot sugarcane,3,3,False
+validation,777,RedRot sugarcane,3,3,False
+validation,778,RedRot sugarcane,3,3,False
+validation,779,RedRot sugarcane,3,3,False
+validation,780,RedRot sugarcane,3,3,False
+validation,781,RedRot sugarcane,3,3,False
+validation,782,RedRot sugarcane,3,3,False
+validation,783,RedRot sugarcane,3,3,False
+validation,784,RedRot sugarcane,3,3,False
+validation,785,RedRot sugarcane,3,3,False
+validation,786,RedRot sugarcane,3,3,False
+validation,787,RedRot sugarcane,3,3,False
+validation,788,RedRot sugarcane,3,3,False
+validation,789,RedRot sugarcane,3,3,False
+validation,790,RedRot sugarcane,3,3,False
+validation,791,RedRot sugarcane,3,3,False
+validation,792,RedRot sugarcane,3,3,False
+validation,793,RedRot sugarcane,3,3,False
+validation,794,RedRot sugarcane,3,3,False
+validation,795,RedRot sugarcane,3,3,False
+validation,796,RedRot sugarcane,3,3,False
+validation,797,RedRot sugarcane,3,3,False
+validation,798,RedRot sugarcane,3,3,False
+validation,799,RedRot sugarcane,3,3,False
+validation,800,RedRot sugarcane,3,3,False
+validation,801,RedRot sugarcane,3,3,False
+validation,802,RedRot sugarcane,3,3,False
+validation,803,RedRot sugarcane,3,3,False
+validation,804,RedRot sugarcane,3,3,False
+validation,805,RedRot sugarcane,3,3,False
+validation,806,RedRot sugarcane,3,3,False
+validation,807,RedRot sugarcane,3,3,False
+validation,808,RedRot sugarcane,3,3,False
+validation,809,RedRot sugarcane,3,3,False
+validation,810,RedRot sugarcane,3,3,False
+validation,811,RedRot sugarcane,3,3,False
+validation,812,RedRot sugarcane,3,3,False
+validation,813,RedRot sugarcane,3,3,False
+validation,814,RedRot sugarcane,3,3,False
+validation,815,RedRot sugarcane,3,3,False
+validation,816,RedRot sugarcane,3,3,False
+validation,817,RedRot sugarcane,3,3,False
+validation,818,RedRot sugarcane,3,3,False
+validation,819,RedRot sugarcane,3,3,False
+validation,820,RedRot sugarcane,3,3,False
+validation,821,RedRot sugarcane,3,3,False
+validation,822,RedRot sugarcane,3,3,False
+validation,823,RedRot sugarcane,3,3,False
+validation,824,RedRot sugarcane,3,3,False
+validation,825,RedRot sugarcane,3,3,False
+validation,826,RedRot sugarcane,3,3,False
+validation,827,RedRot sugarcane,3,3,False
+validation,828,RedRot sugarcane,3,3,False
+validation,829,RedRot sugarcane,3,3,False
+validation,830,RedRot sugarcane,3,3,False
+validation,831,RedRot sugarcane,3,3,False
+validation,832,RedRot sugarcane,3,3,False
+validation,833,RedRot sugarcane,3,3,False
+validation,834,RedRot sugarcane,3,3,False
+validation,835,RedRot sugarcane,3,3,False
+validation,836,RedRot sugarcane,3,3,False
+validation,837,RedRot sugarcane,3,3,False
+validation,838,RedRot sugarcane,3,3,False
+validation,839,RedRot sugarcane,3,3,False
+validation,840,RedRot sugarcane,3,3,False
+validation,841,RedRot sugarcane,3,3,False
+validation,842,RedRot sugarcane,3,3,False
+validation,843,RedRot sugarcane,3,3,False
+validation,844,RedRot sugarcane,3,3,False
+validation,845,RedRot sugarcane,3,3,False
+validation,846,RedRot sugarcane,3,3,False
+validation,847,RedRot sugarcane,3,3,False
+validation,848,RedRot sugarcane,3,3,False
+validation,849,RedRot sugarcane,3,3,False
+validation,850,RedRot sugarcane,3,3,False
+validation,851,RedRot sugarcane,3,3,False
+validation,852,RedRot sugarcane,3,3,False
+validation,853,RedRot sugarcane,3,3,False
+validation,854,RedRot sugarcane,3,3,False
+validation,855,RedRot sugarcane,3,3,False
+validation,856,RedRot sugarcane,3,3,False
+validation,857,RedRot sugarcane,3,3,False
+validation,858,RedRot sugarcane,3,3,False
+validation,859,RedRot sugarcane,3,3,False
+validation,860,RedRot sugarcane,3,3,False
+validation,861,RedRot sugarcane,3,3,False
+validation,862,RedRot sugarcane,3,3,False
+validation,863,RedRot sugarcane,3,3,False
+validation,864,RedRot sugarcane,3,3,False
+validation,865,RedRot sugarcane,3,3,False
+validation,866,RedRot sugarcane,3,3,False
+validation,867,RedRot sugarcane,3,3,False
+validation,868,RedRot sugarcane,3,3,False
+validation,869,RedRot sugarcane,3,3,False
+validation,870,RedRot sugarcane,3,3,False
+validation,871,RedRot sugarcane,3,3,False
+validation,872,RedRot sugarcane,3,3,False
+validation,873,RedRot sugarcane,3,3,False
+validation,874,RedRot sugarcane,3,3,False
+validation,875,RedRot sugarcane,3,3,False
+validation,876,RedRot sugarcane,3,3,False
+validation,877,RedRot sugarcane,3,3,False
+validation,878,RedRot sugarcane,3,3,False
+validation,879,RedRot sugarcane,3,3,False
+validation,880,RedRot sugarcane,3,3,False
+validation,881,RedRot sugarcane,3,3,False
+validation,882,RedRot sugarcane,3,3,False
+validation,883,RedRot sugarcane,3,3,False
+validation,884,RedRot sugarcane,3,3,False
+validation,885,RedRot sugarcane,3,3,False
+validation,886,RedRot sugarcane,3,3,False
+validation,887,RedRot sugarcane,3,3,False
+validation,888,RedRot sugarcane,3,3,False
+validation,889,RedRot sugarcane,3,3,False
+validation,890,RedRot sugarcane,3,3,False
+validation,891,RedRot sugarcane,3,3,False
+validation,892,RedRot sugarcane,3,3,False
+validation,893,RedRot sugarcane,3,3,False
+validation,894,RedRot sugarcane,3,3,False
+validation,895,RedRot sugarcane,3,3,False
+validation,896,RedRot sugarcane,3,3,False
+validation,897,RedRot sugarcane,3,3,False
+validation,898,RedRot sugarcane,3,3,False
+validation,899,RedRot sugarcane,3,3,False
+validation,900,RedRot sugarcane,3,3,False
+validation,901,RedRot sugarcane,3,3,False
+validation,902,RedRot sugarcane,3,3,False
+validation,903,RedRot sugarcane,3,3,False
+validation,904,RedRot sugarcane,3,3,False
+validation,905,RedRot sugarcane,3,3,False
+validation,906,RedRot sugarcane,3,3,False
+validation,907,RedRot sugarcane,3,3,False
+validation,908,RedRot sugarcane,3,3,False
+validation,909,Healthy Wheat,3,3,False
+validation,910,Healthy Wheat,3,3,False
+validation,911,Healthy Wheat,3,3,False
+validation,912,Healthy Wheat,3,3,False
+validation,913,Healthy Wheat,3,3,False
+validation,914,Healthy Wheat,3,3,False
+validation,915,Healthy Wheat,3,3,False
+validation,916,Healthy Wheat,3,3,False
+validation,917,Healthy Wheat,3,3,False
+validation,918,Healthy Wheat,3,3,False
+validation,919,Healthy Wheat,3,3,False
+validation,920,Healthy Wheat,3,3,False
+validation,921,Healthy Wheat,3,3,False
+validation,922,Healthy Wheat,3,3,False
+validation,923,Healthy Wheat,3,3,False
+validation,924,Healthy Wheat,3,3,False
+validation,925,Healthy Wheat,3,3,False
+validation,926,Healthy Wheat,3,3,False
+validation,927,Healthy Wheat,3,3,False
+validation,928,Healthy Wheat,3,3,False
+validation,929,Healthy Wheat,3,3,False
+validation,930,Healthy Wheat,3,3,False
+validation,931,Healthy Wheat,3,3,False
+validation,932,Healthy Wheat,3,3,False
+validation,933,Healthy Wheat,3,3,False
+validation,934,Healthy Wheat,3,3,False
+validation,935,Healthy Wheat,3,3,False
+validation,936,Healthy Wheat,3,3,False
+validation,937,Healthy Wheat,3,3,False
+validation,938,Healthy Wheat,3,3,False
+validation,939,Healthy Wheat,3,3,False
+validation,940,Healthy Wheat,3,3,False
+validation,941,Healthy Wheat,3,3,False
+validation,942,Sugarcane Healthy,3,3,False
+validation,943,Sugarcane Healthy,3,3,False
+validation,944,Sugarcane Healthy,3,3,False
+validation,945,Sugarcane Healthy,3,3,False
+validation,946,Sugarcane Healthy,3,3,False
+validation,947,Sugarcane Healthy,3,3,False
+validation,948,Sugarcane Healthy,3,3,False
+validation,949,Sugarcane Healthy,3,3,False
+validation,950,Sugarcane Healthy,3,3,False
+validation,951,Sugarcane Healthy,3,3,False
+validation,952,Sugarcane Healthy,3,3,False
+validation,953,Sugarcane Healthy,3,3,False
+validation,954,Sugarcane Healthy,3,3,False
+validation,955,Sugarcane Healthy,3,3,False
+validation,956,Sugarcane Healthy,3,3,False
+validation,957,Sugarcane Healthy,3,3,False
+validation,958,Sugarcane Healthy,3,3,False
+validation,959,Sugarcane Healthy,3,3,False
+validation,960,Sugarcane Healthy,3,3,False
+validation,961,Sugarcane Healthy,3,3,False
+validation,962,Sugarcane Healthy,3,3,False
+validation,963,Sugarcane Healthy,3,3,False
+validation,964,Sugarcane Healthy,3,3,False
+validation,965,Sugarcane Healthy,3,3,False
+validation,966,Sugarcane Healthy,3,3,False
+validation,967,Sugarcane Healthy,3,3,False
+validation,968,Sugarcane Healthy,3,3,False
+validation,969,Sugarcane Healthy,3,3,False
+validation,970,Sugarcane Healthy,3,3,False
+validation,971,Sugarcane Healthy,3,3,False
+validation,972,Sugarcane Healthy,3,3,False
+validation,973,Sugarcane Healthy,3,3,False
+validation,974,Sugarcane Healthy,3,3,False
+validation,975,Sugarcane Healthy,3,3,False
+validation,976,Sugarcane Healthy,3,3,False
+validation,977,Sugarcane Healthy,3,3,False
+validation,978,Sugarcane Healthy,3,3,False
+validation,979,Sugarcane Healthy,3,3,False
+validation,980,Sugarcane Healthy,3,3,False
+validation,981,Sugarcane Healthy,3,3,False
+validation,982,Sugarcane Healthy,3,3,False
+validation,983,Sugarcane Healthy,3,3,False
+validation,984,Sugarcane Healthy,3,3,False
+validation,985,Sugarcane Healthy,3,3,False
+validation,986,Sugarcane Healthy,3,3,False
+validation,987,Sugarcane Healthy,3,3,False
+validation,988,Sugarcane Healthy,3,3,False
+validation,989,Sugarcane Healthy,3,3,False
+validation,990,Sugarcane Healthy,3,3,False
+validation,991,Sugarcane Healthy,3,3,False
+validation,992,Sugarcane Healthy,3,3,False
+validation,993,Sugarcane Healthy,3,3,False
+validation,994,Sugarcane Healthy,3,3,False
+validation,995,Sugarcane Healthy,3,3,False
+validation,996,Sugarcane Healthy,3,3,False
+validation,997,Sugarcane Healthy,3,3,False
+validation,998,Sugarcane Healthy,3,3,False
+validation,999,Sugarcane Healthy,3,3,False
+validation,1000,Sugarcane Healthy,3,3,False
+validation,1001,Sugarcane Healthy,3,3,False
+validation,1002,Sugarcane Healthy,3,3,False
+validation,1003,Sugarcane Healthy,3,3,False
+validation,1004,Sugarcane Healthy,3,3,False
+validation,1005,Sugarcane Healthy,3,3,False
+validation,1006,Sugarcane Healthy,3,3,False
+validation,1007,Sugarcane Healthy,3,3,False
+validation,1008,Sugarcane Healthy,3,3,False
+validation,1009,Sugarcane Healthy,3,3,False
+validation,1010,Sugarcane Healthy,3,3,False
+validation,1011,Sugarcane Healthy,3,3,False
+validation,1012,Sugarcane Healthy,3,3,False
+validation,1013,Sugarcane Healthy,3,3,False
+validation,1014,Sugarcane Healthy,3,3,False
+validation,1015,Sugarcane Healthy,3,3,False
+validation,1016,Sugarcane Healthy,3,3,False
+validation,1017,Sugarcane Healthy,3,3,False
+validation,1018,Sugarcane Healthy,3,3,False
+validation,1019,Sugarcane Healthy,3,3,False
+validation,1020,Sugarcane Healthy,3,3,False
+validation,1021,Sugarcane Healthy,3,3,False
+validation,1022,Sugarcane Healthy,3,3,False
+validation,1023,Sugarcane Healthy,3,3,False
+validation,1024,Sugarcane Healthy,3,3,False
+validation,1025,Sugarcane Healthy,3,3,False
+validation,1026,Sugarcane Healthy,3,3,False
+validation,1027,Sugarcane Healthy,3,3,False
+validation,1028,Sugarcane Healthy,3,3,False
+validation,1029,Sugarcane Healthy,3,3,False
+validation,1030,Sugarcane Healthy,3,3,False
+validation,1031,Sugarcane Healthy,3,3,False
+validation,1032,Sugarcane Healthy,3,3,False
+validation,1033,Sugarcane Healthy,3,3,False
+validation,1034,Sugarcane Healthy,3,3,False
+validation,1035,Sugarcane Healthy,3,3,False
+validation,1036,Healthy Maize,3,3,False
+validation,1037,Healthy Maize,3,3,False
+validation,1038,Healthy Maize,3,3,False
+validation,1039,Healthy Maize,3,3,False
+validation,1040,Healthy Maize,3,3,False
+validation,1041,Healthy Maize,3,3,False
+validation,1042,Healthy Maize,3,3,False
+validation,1043,Healthy Maize,3,3,False
+validation,1044,Healthy Maize,3,3,False
+validation,1045,Healthy Maize,3,3,False
+validation,1046,Healthy Maize,3,3,False
+validation,1047,Healthy Maize,3,3,False
+validation,1048,Healthy Maize,3,3,False
+validation,1049,Healthy Maize,3,3,False
+validation,1050,Healthy Maize,3,3,False
+validation,1051,Healthy Maize,3,3,False
+validation,1052,Healthy Maize,3,3,False
+validation,1053,Healthy Maize,3,3,False
+validation,1054,Healthy Maize,3,3,False
+validation,1055,Healthy Maize,3,3,False
+validation,1056,Healthy Maize,3,3,False
+validation,1057,Healthy Maize,3,3,False
+validation,1058,Healthy Maize,3,3,False
+validation,1059,Healthy Maize,3,3,False
+validation,1060,Healthy Maize,3,3,False
+validation,1061,Healthy Maize,3,3,False
+validation,1062,Healthy Maize,3,3,False
+validation,1063,Healthy Maize,3,3,False
+validation,1064,Healthy Maize,3,3,False
+validation,1065,Healthy Maize,3,3,False
+validation,1066,Healthy Maize,3,3,False
+validation,1067,Healthy Maize,3,3,False
+validation,1068,Healthy Maize,3,3,False
+validation,1069,Healthy Maize,3,3,False
+validation,1070,Healthy Maize,3,3,False
+validation,1071,Healthy Maize,3,3,False
+validation,1072,Healthy Maize,3,3,False
+validation,1073,Healthy Maize,3,3,False
+validation,1074,Healthy Maize,3,3,False
+validation,1075,Healthy Maize,3,3,False
+validation,1076,Healthy Maize,3,3,False
+validation,1077,Healthy Maize,3,3,False
+validation,1078,Healthy Maize,3,3,False
+validation,1079,Healthy Maize,3,3,False
+validation,1080,Healthy Maize,3,3,False
+validation,1081,Healthy Maize,3,3,False
+validation,1082,Healthy Maize,3,3,False
+validation,1083,Healthy Maize,3,3,False
+validation,1084,Healthy Maize,3,3,False
+validation,1085,Healthy Maize,3,3,False
+validation,1086,Healthy Maize,3,3,False
+validation,1087,Healthy Maize,3,3,False
+validation,1088,Healthy Maize,3,3,False
+validation,1089,Healthy Maize,3,3,False
+validation,1090,Healthy Maize,3,3,False
+validation,1091,Healthy Maize,3,3,False
+validation,1092,Healthy Maize,3,3,False
+validation,1093,Healthy Maize,3,3,False
+validation,1094,Healthy Maize,3,3,False
+validation,1095,Healthy Maize,3,3,False
+validation,1096,Healthy Maize,3,3,False
+validation,1097,Healthy Maize,3,3,False
+validation,1098,Healthy Maize,3,3,False
+validation,1099,Healthy Maize,3,3,False
+validation,1100,Healthy Maize,3,3,False
+validation,1101,Healthy Maize,3,3,False
+validation,1102,Healthy Maize,3,3,False
+validation,1103,Healthy Maize,3,3,False
+validation,1104,Healthy Maize,3,3,False
+validation,1105,Healthy Maize,3,3,False
+validation,1106,Healthy Maize,3,3,False
+validation,1107,Healthy Maize,3,3,False
+validation,1108,Healthy Maize,3,3,False
+validation,1109,Healthy Maize,3,3,False
+validation,1110,Healthy Maize,3,3,False
+validation,1111,Healthy Maize,3,3,False
+validation,1112,Healthy Maize,3,3,False
+validation,1113,Healthy Maize,3,3,False
+validation,1114,Healthy Maize,3,3,False
+validation,1115,Healthy Maize,3,3,False
+validation,1116,Healthy Maize,3,3,False
+validation,1117,Healthy Maize,3,3,False
+validation,1118,Healthy Maize,3,3,False
+validation,1119,Healthy Maize,3,3,False
+validation,1120,Healthy Maize,3,3,False
+validation,1121,Healthy Maize,3,3,False
+validation,1122,Healthy Maize,3,3,False
+validation,1123,Healthy Maize,3,3,False
+validation,1124,Healthy Maize,3,3,False
+validation,1125,Healthy Maize,3,3,False
+validation,1126,Healthy Maize,3,3,False
+validation,1127,Healthy Maize,3,3,False
+validation,1128,Healthy Maize,3,3,False
+validation,1129,Healthy Maize,3,3,False
+validation,1130,Healthy Maize,3,3,False
+validation,1131,Healthy Maize,3,3,False
+validation,1132,Healthy Maize,3,3,False
+validation,1133,Healthy Maize,3,3,False
+validation,1134,Healthy Maize,3,3,False
+validation,1135,Healthy Maize,3,3,False
+validation,1136,Healthy Maize,3,3,False
+validation,1137,Healthy Maize,3,3,False
+validation,1138,Healthy Maize,3,3,False
+validation,1139,Healthy Maize,3,3,False
+validation,1140,Healthy Maize,3,3,False
+validation,1141,Healthy Maize,3,3,False
+validation,1142,Healthy Maize,3,3,False
+validation,1143,Healthy Maize,3,3,False
+validation,1144,Healthy Maize,3,3,False
+validation,1145,Healthy Maize,3,3,False
+validation,1146,Healthy Maize,3,3,False
+validation,1147,Healthy Maize,3,3,False
+validation,1148,Healthy Maize,3,3,False
+validation,1149,Healthy Maize,3,3,False
+validation,1150,Healthy Maize,3,3,False
+validation,1151,Healthy Maize,3,3,False
+validation,1152,Healthy Maize,3,3,False
+validation,1153,Healthy Maize,3,3,False
+validation,1154,Healthy Maize,3,3,False
+validation,1155,Healthy Maize,3,3,False
+validation,1156,Healthy Maize,3,3,False
+validation,1157,Healthy Maize,3,3,False
+validation,1158,Healthy Maize,3,3,False
+validation,1159,Healthy Maize,3,3,False
+validation,1160,Healthy Maize,3,3,False
+validation,1161,Healthy Maize,3,3,False
+validation,1162,Healthy Maize,3,3,False
+validation,1163,Healthy Maize,3,3,False
+validation,1164,Healthy Maize,3,3,False
+validation,1165,Healthy Maize,3,3,False
+validation,1166,Healthy Maize,3,3,False
+validation,1167,Healthy Maize,3,3,False
+validation,1168,Healthy Maize,3,3,False
+validation,1169,Healthy Maize,3,3,False
+validation,1170,Healthy Maize,3,3,False
+validation,1171,Healthy Maize,3,3,False
+validation,1172,Healthy Maize,3,3,False
+validation,1173,Healthy Maize,3,3,False
+validation,1174,Healthy Maize,3,3,False
+validation,1175,Healthy Maize,3,3,False
+validation,1176,Healthy Maize,3,3,False
+validation,1177,Healthy Maize,3,3,False
+validation,1178,Healthy Maize,3,3,False
+validation,1179,Healthy Maize,3,3,False
+validation,1180,Healthy Maize,3,3,False
+validation,1181,Healthy Maize,3,3,False
+validation,1182,Healthy Maize,3,3,False
+validation,1183,Healthy Maize,3,3,False
+validation,1184,Healthy Maize,3,3,False
+validation,1185,Healthy Maize,3,3,False
+validation,1186,Healthy Maize,3,3,False
+validation,1187,Healthy Maize,3,3,False
+validation,1188,Healthy Maize,3,3,False
+validation,1189,Healthy Maize,3,3,False
+validation,1190,Healthy Maize,3,3,False
+validation,1191,Healthy Maize,3,3,False
+validation,1192,Healthy Maize,3,3,False
+validation,1193,Healthy Maize,3,3,False
+validation,1194,Healthy Maize,3,3,False
+validation,1195,Healthy Maize,3,3,False
+validation,1196,Healthy Maize,3,3,False
+validation,1197,Healthy Maize,3,3,False
+validation,1198,Healthy Maize,3,3,False
+validation,1199,Healthy Maize,3,3,False
+validation,1200,Healthy Maize,3,3,False
+validation,1201,Healthy Maize,3,3,False
+validation,1202,Healthy Maize,3,3,False
+validation,1203,Healthy Maize,3,3,False
+validation,1204,Healthy Maize,3,3,False
+validation,1205,Healthy Maize,3,3,False
+validation,1206,Healthy Maize,3,3,False
+validation,1207,Healthy Maize,3,3,False
+validation,1208,Healthy Maize,3,3,False
+validation,1209,Healthy Maize,3,3,False
+validation,1210,Healthy Maize,3,3,False
+validation,1211,Healthy Maize,3,3,False
+validation,1212,Healthy Maize,3,3,False
+validation,1213,Healthy Maize,3,3,False
+validation,1214,Healthy Maize,3,3,False
+validation,1215,Healthy Maize,3,3,False
+validation,1216,Healthy Maize,3,3,False
+validation,1217,Healthy Maize,3,3,False
+validation,1218,Healthy Maize,3,3,False
+validation,1219,Healthy Maize,3,3,False
+validation,1220,Healthy Maize,3,3,False
+validation,1221,Healthy Maize,3,3,False
+validation,1222,Healthy Maize,3,3,False
+validation,1223,Healthy Maize,3,3,False
+validation,1224,Healthy Maize,3,3,False
+validation,1225,Healthy Maize,3,3,False
+validation,1226,Healthy Maize,3,3,False
+validation,1227,Healthy Maize,3,3,False
+validation,1228,Healthy Maize,3,3,False
+validation,1229,Healthy Maize,3,3,False
+validation,1230,Healthy Maize,3,3,False
+validation,1231,Healthy Maize,3,3,False
+validation,1232,Healthy Maize,3,3,False
+validation,1233,Healthy Maize,3,3,False
+validation,1234,Healthy Maize,3,3,False
+validation,1235,Healthy Maize,3,3,False
+validation,1236,Healthy Maize,3,3,False
+validation,1237,Healthy Maize,3,3,False
+validation,1238,Healthy Maize,3,3,False
+validation,1239,Healthy Maize,3,3,False
+validation,1240,Healthy Maize,3,3,False
+validation,1241,Healthy Maize,3,3,False
+validation,1242,Healthy Maize,3,3,False
+validation,1243,Healthy Maize,3,3,False
+validation,1244,Healthy Maize,3,3,False
+validation,1245,Healthy Maize,3,3,False
+validation,1246,Healthy Maize,3,3,False
+validation,1247,Healthy Maize,3,3,False
+validation,1248,Healthy Maize,3,3,False
+validation,1249,Healthy Maize,3,3,False
+validation,1250,Healthy Maize,3,3,False
+validation,1251,Healthy Maize,3,3,False
+validation,1252,Healthy Maize,3,3,False
+validation,1253,Healthy Maize,3,3,False
+validation,1254,Healthy Maize,3,3,False
+validation,1255,Healthy Maize,3,3,False
+validation,1256,Healthy Maize,3,3,False
+validation,1257,Healthy Maize,3,3,False
+validation,1258,Healthy Maize,3,3,False
+validation,1259,Healthy Maize,3,3,False
+validation,1260,Healthy Maize,3,3,False
+validation,1261,Healthy Maize,3,3,False
+validation,1262,Healthy Maize,3,3,False
+validation,1263,Healthy Maize,3,3,False
+validation,1264,Healthy Maize,3,3,False
+validation,1265,Healthy Maize,3,3,False
+validation,1266,Healthy Maize,3,3,False
+validation,1267,Healthy Maize,3,3,False
+validation,1268,Healthy Maize,3,3,False
+validation,1269,Healthy Maize,3,3,False
+validation,1270,Healthy Maize,3,3,False
+validation,1271,Healthy Maize,3,3,False
+validation,1272,Healthy Maize,3,3,False
+validation,1273,Healthy Maize,3,3,False
+validation,1274,Healthy Maize,3,3,False
+validation,1275,Healthy Maize,3,3,False
+validation,1276,Healthy Maize,3,3,False
+validation,1277,Healthy Maize,3,3,False
+validation,1278,Healthy Maize,3,3,False
+validation,1279,Healthy Maize,3,3,False
+validation,1280,Healthy Maize,3,3,False
+validation,1281,Healthy Maize,3,3,False
+validation,1282,Healthy Maize,3,3,False
+validation,1283,Healthy Maize,3,3,False
+validation,1284,Healthy Maize,3,3,False
+validation,1285,Healthy Maize,3,3,False
+validation,1286,Healthy Maize,3,3,False
+validation,1287,Healthy Maize,3,3,False
+validation,1288,Healthy Maize,3,3,False
+validation,1289,Healthy Maize,3,3,False
+validation,1290,Healthy Maize,3,3,False
+validation,1291,Healthy Maize,3,3,False
+validation,1292,Healthy Maize,3,3,False
+validation,1293,Healthy Maize,3,3,False
+validation,1294,Healthy Maize,3,3,False
+validation,1295,Healthy Maize,3,3,False
+validation,1296,Healthy Maize,3,3,False
+validation,1297,Healthy Maize,3,3,False
+validation,1298,Healthy Maize,3,3,False
+validation,1299,Healthy Maize,3,3,False
+validation,1300,Healthy Maize,3,3,False
+validation,1301,Healthy Maize,3,3,False
+validation,1302,Healthy Maize,3,3,False
+validation,1303,Healthy Maize,3,3,False
+validation,1304,Healthy Maize,3,3,False
+validation,1305,Healthy Maize,3,3,False
+validation,1306,Healthy Maize,3,3,False
+validation,1307,Healthy Maize,3,3,False
+validation,1308,Healthy Maize,3,3,False
+validation,1309,Healthy Maize,3,3,False
+validation,1310,Healthy Maize,3,3,False
+validation,1311,maize fall armyworm,3,3,False
+validation,1312,maize fall armyworm,3,3,False
+validation,1313,maize fall armyworm,3,3,False
+validation,1314,maize fall armyworm,3,3,False
+validation,1315,maize fall armyworm,3,3,False
+validation,1316,maize fall armyworm,3,3,False
+validation,1317,maize fall armyworm,3,3,False
+validation,1318,maize fall armyworm,3,3,False
+validation,1319,maize fall armyworm,3,3,False
+validation,1320,maize fall armyworm,3,3,False
+validation,1321,maize fall armyworm,3,3,False
+validation,1322,maize fall armyworm,3,3,False
+validation,1323,maize fall armyworm,3,3,False
+validation,1324,maize fall armyworm,3,3,False
+validation,1325,maize fall armyworm,3,3,False
+validation,1326,maize fall armyworm,3,3,False
+validation,1327,maize fall armyworm,3,3,False
+validation,1328,maize fall armyworm,3,3,False
+validation,1329,maize fall armyworm,3,3,False
+validation,1330,maize fall armyworm,3,3,False
+validation,1331,maize fall armyworm,3,3,False
+validation,1332,maize fall armyworm,3,3,False
+validation,1333,maize fall armyworm,3,3,False
+validation,1334,maize fall armyworm,3,3,False
+validation,1335,maize fall armyworm,3,3,False
+validation,1336,maize fall armyworm,3,3,False
+validation,1337,maize fall armyworm,3,3,False
+validation,1338,maize fall armyworm,3,3,False
+validation,1339,maize fall armyworm,3,3,False
+validation,1340,maize fall armyworm,3,3,False
+validation,1341,maize fall armyworm,3,3,False
+validation,1342,maize fall armyworm,3,3,False
+validation,1343,maize fall armyworm,3,3,False
+validation,1344,maize fall armyworm,3,3,False
+validation,1345,maize fall armyworm,3,3,False
+validation,1346,maize fall armyworm,3,3,False
+validation,1347,maize fall armyworm,3,3,False
+validation,1348,maize fall armyworm,3,3,False
+validation,1349,maize fall armyworm,3,3,False
+validation,1350,maize fall armyworm,3,3,False
+validation,1351,maize fall armyworm,3,3,False
+validation,1352,maize fall armyworm,3,3,False
+validation,1353,maize fall armyworm,3,3,False
+validation,1354,maize fall armyworm,3,3,False
+validation,1355,maize fall armyworm,3,3,False
+validation,1356,maize fall armyworm,3,3,False
+validation,1357,maize fall armyworm,3,3,False
+validation,1358,maize fall armyworm,3,3,False
+validation,1359,maize fall armyworm,3,3,False
+validation,1360,maize fall armyworm,3,3,False
+validation,1361,maize fall armyworm,3,3,False
+validation,1362,maize fall armyworm,3,3,False
+validation,1363,maize fall armyworm,3,3,False
+validation,1364,maize fall armyworm,3,3,False
+validation,1365,maize fall armyworm,3,3,False
+validation,1366,maize fall armyworm,3,3,False
+validation,1367,maize fall armyworm,3,3,False
+validation,1368,maize fall armyworm,3,3,False
+validation,1369,maize fall armyworm,3,3,False
+validation,1370,maize fall armyworm,3,3,False
+validation,1371,maize fall armyworm,3,3,False
+validation,1372,maize fall armyworm,3,3,False
+validation,1373,maize fall armyworm,3,3,False
+validation,1374,maize fall armyworm,3,3,False
+validation,1375,maize fall armyworm,3,3,False
+validation,1376,maize fall armyworm,3,3,False
+validation,1377,maize fall armyworm,3,3,False
+validation,1378,maize fall armyworm,3,3,False
+validation,1379,maize fall armyworm,3,3,False
+validation,1380,maize fall armyworm,3,3,False
+validation,1381,maize fall armyworm,3,3,False
+validation,1382,maize fall armyworm,3,3,False
+validation,1383,maize fall armyworm,3,3,False
+validation,1384,maize fall armyworm,3,3,False
+validation,1385,maize fall armyworm,3,3,False
+validation,1386,maize stem borer,3,3,False
+validation,1387,maize stem borer,3,3,False
+validation,1388,maize stem borer,3,3,False
+validation,1389,maize stem borer,3,3,False
+validation,1390,maize stem borer,3,3,False
+validation,1391,maize stem borer,3,3,False
+validation,1392,maize stem borer,3,3,False
+validation,1393,maize stem borer,3,3,False
+validation,1394,maize stem borer,3,3,False
+validation,1395,maize stem borer,3,3,False
+validation,1396,maize stem borer,3,3,False
+validation,1397,maize stem borer,3,3,False
+validation,1398,maize stem borer,3,3,False
+validation,1399,maize stem borer,3,3,False
+validation,1400,maize stem borer,3,3,False
+validation,1401,maize stem borer,3,3,False
+validation,1402,maize stem borer,3,3,False
+validation,1403,maize stem borer,3,3,False
+validation,1404,maize stem borer,3,3,False
+validation,1405,maize stem borer,3,3,False
+validation,1406,maize stem borer,3,3,False
+validation,1407,maize stem borer,3,3,False
+validation,1408,maize stem borer,3,3,False
+validation,1409,maize stem borer,3,3,False
+validation,1410,maize stem borer,3,3,False
+validation,1411,maize stem borer,3,3,False
+validation,1412,maize stem borer,3,3,False
+validation,1413,maize stem borer,3,3,False
+validation,1414,maize stem borer,3,3,False
+validation,1415,maize stem borer,3,3,False
+validation,1416,maize stem borer,3,3,False
+validation,1417,maize stem borer,3,3,False
+validation,1418,maize stem borer,3,3,False
+validation,1419,maize stem borer,3,3,False
+validation,1420,maize stem borer,3,3,False
+validation,1421,maize stem borer,3,3,False
+validation,1422,maize stem borer,3,3,False
+validation,1423,maize stem borer,3,3,False
+validation,1424,maize stem borer,3,3,False
+validation,1425,maize stem borer,3,3,False
+validation,1426,maize stem borer,3,3,False
+validation,1427,maize stem borer,3,3,False
+validation,1428,maize stem borer,3,3,False
+validation,1429,maize stem borer,3,3,False
+validation,1430,maize stem borer,3,3,False
+validation,1431,maize stem borer,3,3,False
+validation,1432,maize stem borer,3,3,False
+validation,1433,maize stem borer,3,3,False
+validation,1434,maize stem borer,3,3,False
+validation,1435,maize stem borer,3,3,False
+validation,1436,maize stem borer,3,3,False
+validation,1437,maize stem borer,3,3,False
+validation,1438,maize stem borer,3,3,False
+validation,1439,maize stem borer,3,3,False
+validation,1440,maize stem borer,3,3,False
+validation,1441,maize stem borer,3,3,False
+validation,1442,maize stem borer,3,3,False
+validation,1443,Healthy cotton,3,3,False
+validation,1444,Healthy cotton,3,3,False
+validation,1445,Healthy cotton,3,3,False
+validation,1446,Healthy cotton,3,3,False
+validation,1447,Healthy cotton,3,3,False
+validation,1448,Healthy cotton,3,3,False
+validation,1449,Healthy cotton,3,3,False
+validation,1450,Healthy cotton,3,3,False
+validation,1451,Healthy cotton,3,3,False
+validation,1452,Healthy cotton,3,3,False
+validation,1453,Healthy cotton,3,3,False
+validation,1454,Healthy cotton,3,3,False
+validation,1455,Healthy cotton,3,3,False
+validation,1456,Healthy cotton,3,3,False
+validation,1457,Healthy cotton,3,3,False
+validation,1458,Healthy cotton,3,3,False
+validation,1459,Healthy cotton,3,3,False
+validation,1460,Healthy cotton,3,3,False
+validation,1461,Healthy cotton,3,3,False
+validation,1462,Healthy cotton,3,3,False
+validation,1463,Healthy cotton,3,3,False
+validation,1464,Healthy cotton,3,3,False
+validation,1465,Healthy cotton,3,3,False
+validation,1466,Healthy cotton,3,3,False
+validation,1467,Healthy cotton,3,3,False
+validation,1468,Healthy cotton,3,3,False
+validation,1469,Healthy cotton,3,3,False
+validation,1470,Healthy cotton,3,3,False
+validation,1471,Healthy cotton,3,3,False
+validation,1472,Healthy cotton,3,3,False
+validation,1473,Healthy cotton,3,3,False
+validation,1474,Healthy cotton,3,3,False
+validation,1475,Healthy cotton,3,3,False
+validation,1476,Healthy cotton,3,3,False
+validation,1477,Healthy cotton,3,3,False
+validation,1478,Healthy cotton,3,3,False
+validation,1479,Healthy cotton,3,3,False
+validation,1480,Healthy cotton,3,3,False
+validation,1481,Healthy cotton,3,3,False
+validation,1482,Healthy cotton,3,3,False
+validation,1483,Healthy cotton,3,3,False
+validation,1484,Healthy cotton,3,3,False
+validation,1485,Healthy cotton,3,3,False
+validation,1486,Healthy cotton,3,3,False
+validation,1487,Healthy cotton,3,3,False
+validation,1488,Healthy cotton,3,3,False
+validation,1489,Healthy cotton,3,3,False
+validation,1490,Healthy cotton,3,3,False
+validation,1491,Healthy cotton,3,3,False
+validation,1492,Healthy cotton,3,3,False
+validation,1493,Healthy cotton,3,3,False
+validation,1494,Healthy cotton,3,3,False
+validation,1495,Healthy cotton,3,3,False
+validation,1496,Healthy cotton,3,3,False
+validation,1497,Healthy cotton,3,3,False
+validation,1498,Healthy cotton,3,3,False
+validation,1499,Healthy cotton,3,3,False
+validation,1500,Healthy cotton,3,3,False
+validation,1501,Healthy cotton,3,3,False
+validation,1502,Healthy cotton,3,3,False
+validation,1503,Healthy cotton,3,3,False
+validation,1504,Healthy cotton,3,3,False
+validation,1505,Healthy cotton,3,3,False
+validation,1506,Healthy cotton,3,3,False
+validation,1507,Healthy cotton,3,3,False
+validation,1508,Healthy cotton,3,3,False
+validation,1509,Healthy cotton,3,3,False
+validation,1510,Healthy cotton,3,3,False
+validation,1511,Healthy cotton,3,3,False
+validation,1512,Healthy cotton,3,3,False
+validation,1513,Healthy cotton,3,3,False
+validation,1514,Healthy cotton,3,3,False
+validation,1515,Healthy cotton,3,3,False
+validation,1516,Healthy cotton,3,3,False
+validation,1517,Healthy cotton,3,3,False
+validation,1518,Healthy cotton,3,3,False
+validation,1519,Healthy cotton,3,3,False
+validation,1520,Healthy cotton,3,3,False
+validation,1521,Healthy cotton,3,3,False
+validation,1522,Healthy cotton,3,3,False
+validation,1523,Healthy cotton,3,3,False
+validation,1524,Healthy cotton,3,3,False
+validation,1525,Healthy cotton,3,3,False
+validation,1526,Healthy cotton,3,3,False
+validation,1527,Healthy cotton,3,3,False
+validation,1528,Healthy cotton,3,3,False
+validation,1529,Healthy cotton,3,3,False
+validation,1530,Healthy cotton,3,3,False
+validation,1531,Healthy cotton,3,3,False
+validation,1532,Healthy cotton,3,3,False
+validation,1533,Healthy cotton,3,3,False
+validation,1534,Healthy cotton,3,3,False
+validation,1535,Healthy cotton,3,3,False
+validation,1536,Healthy cotton,3,3,False
+validation,1537,Healthy cotton,3,3,False
+validation,1538,Healthy cotton,3,3,False
+validation,1539,Healthy cotton,3,3,False
+validation,1540,Healthy cotton,3,3,False
+validation,1541,Healthy cotton,3,3,False
+validation,1542,Healthy cotton,3,3,False
+validation,1543,Healthy cotton,3,3,False
+validation,1544,Healthy cotton,3,3,False
+validation,1545,Healthy cotton,3,3,False
+validation,1546,Healthy cotton,3,3,False
+validation,1547,Healthy cotton,3,3,False
+validation,1548,Healthy cotton,3,3,False
+validation,1549,Healthy cotton,3,3,False
+validation,1550,Healthy cotton,3,3,False
+validation,1551,Healthy cotton,3,3,False
+validation,1552,Healthy cotton,3,3,False
+validation,1553,Healthy cotton,3,3,False
+validation,1554,Healthy cotton,3,3,False
+validation,1555,Healthy cotton,3,3,False
+validation,1556,Healthy cotton,3,3,False
+validation,1557,Healthy cotton,3,3,False
+validation,1558,Healthy cotton,3,3,False
+validation,1559,Healthy cotton,3,3,False
+validation,1560,Healthy cotton,3,3,False
+validation,1561,Healthy cotton,3,3,False
+validation,1562,Healthy cotton,3,3,False
+validation,1563,Healthy cotton,3,3,False
+validation,1564,Healthy cotton,3,3,False
+validation,1565,Healthy cotton,3,3,False
+validation,1566,Healthy cotton,3,3,False
+validation,1567,Healthy cotton,3,3,False
+validation,1568,Healthy cotton,3,3,False
+validation,1569,Healthy cotton,3,3,False
+validation,1570,Healthy cotton,3,3,False
+validation,1571,Healthy cotton,3,3,False
+validation,1572,Healthy cotton,3,3,False
+validation,1573,Healthy cotton,3,3,False
+validation,1574,Healthy cotton,3,3,False
+validation,1575,Healthy cotton,3,3,False
+validation,1576,Healthy cotton,3,3,False
+validation,1577,Healthy cotton,3,3,False
+validation,1578,Healthy cotton,3,3,False
+validation,1579,Healthy cotton,3,3,False
+validation,1580,Healthy cotton,3,3,False
+validation,1581,Healthy cotton,3,3,False
+validation,1582,Healthy cotton,3,3,False
+validation,1583,Healthy cotton,3,3,False
+validation,1584,Healthy cotton,3,3,False
+validation,1585,Healthy cotton,3,3,False
+validation,1586,Healthy cotton,3,3,False
+validation,1587,Healthy cotton,3,3,False
+validation,1588,Healthy cotton,3,3,False
+validation,1589,Healthy cotton,3,3,False
+validation,1590,Healthy cotton,3,3,False
+validation,1591,Healthy cotton,3,3,False
+validation,1592,Healthy cotton,3,3,False
+validation,1593,Healthy cotton,3,3,False
+validation,1594,Healthy cotton,3,3,False
+validation,1595,Healthy cotton,3,3,False
+validation,1596,Healthy cotton,3,3,False
+validation,1597,Healthy cotton,3,3,False
+validation,1598,Healthy cotton,3,3,False
+validation,1599,Healthy cotton,3,3,False
+validation,1600,Healthy cotton,3,3,False
+validation,1601,Healthy cotton,3,3,False
+validation,1602,Healthy cotton,3,3,False
+validation,1603,Healthy cotton,3,3,False
+validation,1604,Healthy cotton,3,3,False
+validation,1605,Healthy cotton,3,3,False
+validation,1606,Healthy cotton,3,3,False
+validation,1607,Healthy cotton,3,3,False
+validation,1608,Healthy cotton,3,3,False
+validation,1609,Healthy cotton,3,3,False
+validation,1610,Healthy cotton,3,3,False
+validation,1611,Healthy cotton,3,3,False
+validation,1612,Healthy cotton,3,3,False
+validation,1613,Healthy cotton,3,3,False
+validation,1614,Healthy cotton,3,3,False
+validation,1615,Healthy cotton,3,3,False
+validation,1616,Healthy cotton,3,3,False
+validation,1617,Healthy cotton,3,3,False
+validation,1618,Healthy cotton,3,3,False
+validation,1619,Gray_Leaf_Spot,3,3,False
+validation,1620,Gray_Leaf_Spot,3,3,False
+validation,1621,Gray_Leaf_Spot,3,3,False
+validation,1622,Gray_Leaf_Spot,3,3,False
+validation,1623,Gray_Leaf_Spot,3,3,False
+validation,1624,Gray_Leaf_Spot,3,3,False
+validation,1625,Gray_Leaf_Spot,3,3,False
+validation,1626,Gray_Leaf_Spot,3,3,False
+validation,1627,Gray_Leaf_Spot,3,3,False
+validation,1628,Gray_Leaf_Spot,3,3,False
+validation,1629,Gray_Leaf_Spot,3,3,False
+validation,1630,Gray_Leaf_Spot,3,3,False
+validation,1631,Gray_Leaf_Spot,3,3,False
+validation,1632,Gray_Leaf_Spot,3,3,False
+validation,1633,Gray_Leaf_Spot,3,3,False
+validation,1634,Gray_Leaf_Spot,3,3,False
+validation,1635,Gray_Leaf_Spot,3,3,False
+validation,1636,Gray_Leaf_Spot,3,3,False
+validation,1637,Gray_Leaf_Spot,3,3,False
+validation,1638,Gray_Leaf_Spot,3,3,False
+validation,1639,Becterial Blight in Rice,3,3,False
+validation,1640,Becterial Blight in Rice,3,3,False
+validation,1641,Becterial Blight in Rice,3,3,False
+validation,1642,Becterial Blight in Rice,3,3,False
+validation,1643,Becterial Blight in Rice,3,3,False
+validation,1644,Becterial Blight in Rice,3,3,False
+validation,1645,Becterial Blight in Rice,3,3,False
+validation,1646,Becterial Blight in Rice,3,3,False
+validation,1647,Becterial Blight in Rice,3,3,False
+validation,1648,Becterial Blight in Rice,3,3,False
+validation,1649,Becterial Blight in Rice,3,3,False
+validation,1650,Becterial Blight in Rice,3,3,False
+validation,1651,Becterial Blight in Rice,3,3,False
+validation,1652,Becterial Blight in Rice,3,3,False
+validation,1653,Becterial Blight in Rice,3,3,False
+validation,1654,Becterial Blight in Rice,3,3,False
+validation,1655,Becterial Blight in Rice,3,3,False
+validation,1656,Becterial Blight in Rice,3,3,False
+validation,1657,Becterial Blight in Rice,3,3,False
+validation,1658,Becterial Blight in Rice,3,3,False
+validation,1659,Becterial Blight in Rice,3,3,False
+validation,1660,Becterial Blight in Rice,3,3,False
+validation,1661,Brownspot,3,3,False
+validation,1662,Brownspot,3,3,False
+validation,1663,Brownspot,3,3,False
+validation,1664,Brownspot,3,3,False
+validation,1665,Brownspot,3,3,False
+validation,1666,Brownspot,3,3,False
+validation,1667,Brownspot,3,3,False
+validation,1668,Brownspot,3,3,False
+validation,1669,Brownspot,3,3,False
+validation,1670,cotton mealy bug,3,3,False
+validation,1671,cotton mealy bug,3,3,False
+validation,1672,cotton mealy bug,3,3,False
+validation,1673,cotton mealy bug,3,3,False
+validation,1674,cotton mealy bug,3,3,False
+validation,1675,cotton mealy bug,3,3,False
+validation,1676,cotton mealy bug,3,3,False
+validation,1677,cotton mealy bug,3,3,False
+validation,1678,cotton mealy bug,3,3,False
+validation,1679,cotton mealy bug,3,3,False
+validation,1680,cotton mealy bug,3,3,False
+validation,1681,cotton mealy bug,3,3,False
+validation,1682,cotton mealy bug,3,3,False
+validation,1683,cotton mealy bug,3,3,False
+validation,1684,cotton mealy bug,3,3,False
+validation,1685,cotton mealy bug,3,3,False
+validation,1686,cotton mealy bug,3,3,False
+validation,1687,cotton mealy bug,3,3,False
+validation,1688,cotton mealy bug,3,3,False
+validation,1689,cotton mealy bug,3,3,False
+validation,1690,cotton mealy bug,3,3,False
+validation,1691,cotton mealy bug,3,3,False
+validation,1692,cotton mealy bug,3,3,False
+validation,1693,cotton mealy bug,3,3,False
+validation,1694,cotton mealy bug,3,3,False
+validation,1695,cotton mealy bug,3,3,False
+validation,1696,cotton mealy bug,3,3,False
+validation,1697,cotton mealy bug,3,3,False
+validation,1698,cotton mealy bug,3,3,False
+validation,1699,cotton mealy bug,3,3,False
+validation,1700,cotton mealy bug,3,3,False
+validation,1701,cotton mealy bug,3,3,False
+validation,1702,cotton mealy bug,3,3,False
+validation,1703,cotton mealy bug,3,3,False
+validation,1704,cotton mealy bug,3,3,False
+validation,1705,cotton mealy bug,3,3,False
+validation,1706,cotton mealy bug,3,3,False
+validation,1707,cotton mealy bug,3,3,False
+validation,1708,cotton mealy bug,3,3,False
+validation,1709,cotton mealy bug,3,3,False
+validation,1710,cotton mealy bug,3,3,False
+validation,1711,cotton mealy bug,3,3,False
+validation,1712,cotton mealy bug,3,3,False
+validation,1713,cotton mealy bug,3,3,False
+validation,1714,cotton mealy bug,3,3,False
+validation,1715,cotton mealy bug,3,3,False
+validation,1716,cotton mealy bug,3,3,False
+validation,1717,cotton mealy bug,3,3,False
+validation,1718,cotton mealy bug,3,3,False
+validation,1719,cotton mealy bug,3,3,False
+validation,1720,cotton mealy bug,3,3,False
+validation,1721,cotton mealy bug,3,3,False
+validation,1722,cotton mealy bug,3,3,False
+validation,1723,cotton mealy bug,3,3,False
+validation,1724,cotton mealy bug,3,3,False
+validation,1725,cotton mealy bug,3,3,False
+validation,1726,cotton mealy bug,3,3,False
+validation,1727,cotton mealy bug,3,3,False
+validation,1728,bacterial_blight in Cotton,3,3,False
+validation,1729,bacterial_blight in Cotton,3,3,False
+validation,1730,bacterial_blight in Cotton,3,3,False
+validation,1731,bacterial_blight in Cotton,3,3,False
+validation,1732,bacterial_blight in Cotton,3,3,False
+validation,1733,bacterial_blight in Cotton,3,3,False
+validation,1734,bacterial_blight in Cotton,3,3,False
+validation,1735,bacterial_blight in Cotton,3,3,False
+validation,1736,bacterial_blight in Cotton,3,3,False
+validation,1737,bacterial_blight in Cotton,3,3,False
+validation,1738,bacterial_blight in Cotton,3,3,False
+validation,1739,bacterial_blight in Cotton,3,3,False
+validation,1740,bacterial_blight in Cotton,3,3,False
+validation,1741,bacterial_blight in Cotton,3,3,False
+validation,1742,bacterial_blight in Cotton,3,3,False
+validation,1743,bacterial_blight in Cotton,3,3,False
+validation,1744,bacterial_blight in Cotton,3,3,False
+validation,1745,bacterial_blight in Cotton,3,3,False
+validation,1746,bacterial_blight in Cotton,3,3,False
+validation,1747,bacterial_blight in Cotton,3,3,False
+validation,1748,bacterial_blight in Cotton,3,3,False
+validation,1749,bacterial_blight in Cotton,3,3,False
+validation,1750,bacterial_blight in Cotton,3,3,False
+validation,1751,bacterial_blight in Cotton,3,3,False
+validation,1752,bacterial_blight in Cotton,3,3,False
+validation,1753,bacterial_blight in Cotton,3,3,False
+validation,1754,bacterial_blight in Cotton,3,3,False
+validation,1755,bacterial_blight in Cotton,3,3,False
+validation,1756,bacterial_blight in Cotton,3,3,False
+validation,1757,bacterial_blight in Cotton,3,3,False
+validation,1758,bacterial_blight in Cotton,3,3,False
+validation,1759,bacterial_blight in Cotton,3,3,False
+validation,1760,bacterial_blight in Cotton,3,3,False
+validation,1761,bacterial_blight in Cotton,3,3,False
+validation,1762,bacterial_blight in Cotton,3,3,False
+validation,1763,bacterial_blight in Cotton,3,3,False
+validation,1764,bacterial_blight in Cotton,3,3,False
+validation,1765,bacterial_blight in Cotton,3,3,False
+validation,1766,bacterial_blight in Cotton,3,3,False
+validation,1767,bacterial_blight in Cotton,3,3,False
+validation,1768,bacterial_blight in Cotton,3,3,False
+validation,1769,bacterial_blight in Cotton,3,3,False
+validation,1770,bacterial_blight in Cotton,3,3,False
+validation,1771,bacterial_blight in Cotton,3,3,False
+validation,1772,bacterial_blight in Cotton,3,3,False
+validation,1773,bacterial_blight in Cotton,3,3,False
+validation,1774,bacterial_blight in Cotton,3,3,False
+validation,1775,bacterial_blight in Cotton,3,3,False
+validation,1776,bacterial_blight in Cotton,3,3,False
+validation,1777,bacterial_blight in Cotton,3,3,False
+validation,1778,bacterial_blight in Cotton,3,3,False
+validation,1779,bacterial_blight in Cotton,3,3,False
+validation,1780,bacterial_blight in Cotton,3,3,False
+validation,1781,bacterial_blight in Cotton,3,3,False
+validation,1782,bacterial_blight in Cotton,3,3,False
+validation,1783,bacterial_blight in Cotton,3,3,False
+validation,1784,bacterial_blight in Cotton,3,3,False
+validation,1785,bacterial_blight in Cotton,3,3,False
+validation,1786,bacterial_blight in Cotton,3,3,False
+validation,1787,bacterial_blight in Cotton,3,3,False
+validation,1788,bacterial_blight in Cotton,3,3,False
+validation,1789,bacterial_blight in Cotton,3,3,False
+validation,1790,bacterial_blight in Cotton,3,3,False
+validation,1791,bacterial_blight in Cotton,3,3,False
+validation,1792,bacterial_blight in Cotton,3,3,False
+validation,1793,bacterial_blight in Cotton,3,3,False
+validation,1794,bacterial_blight in Cotton,3,3,False
+validation,1795,bacterial_blight in Cotton,3,3,False
+validation,1796,bacterial_blight in Cotton,3,3,False
+validation,1797,bacterial_blight in Cotton,3,3,False
+validation,1798,bacterial_blight in Cotton,3,3,False
+validation,1799,bacterial_blight in Cotton,3,3,False
+validation,1800,bacterial_blight in Cotton,3,3,False
+validation,1801,bacterial_blight in Cotton,3,3,False
+validation,1802,bacterial_blight in Cotton,3,3,False
+validation,1803,bacterial_blight in Cotton,3,3,False
+validation,1804,bacterial_blight in Cotton,3,3,False
+validation,1805,bacterial_blight in Cotton,3,3,False
+validation,1806,bacterial_blight in Cotton,3,3,False
+validation,1807,bacterial_blight in Cotton,3,3,False
+validation,1808,bacterial_blight in Cotton,3,3,False
+validation,1809,bacterial_blight in Cotton,3,3,False
+validation,1810,bacterial_blight in Cotton,3,3,False
+validation,1811,bacterial_blight in Cotton,3,3,False
+validation,1812,bacterial_blight in Cotton,3,3,False
+validation,1813,bacterial_blight in Cotton,3,3,False
+validation,1814,bacterial_blight in Cotton,3,3,False
+validation,1815,bacterial_blight in Cotton,3,3,False
+validation,1816,bacterial_blight in Cotton,3,3,False
+validation,1817,bacterial_blight in Cotton,3,3,False
+validation,1818,bacterial_blight in Cotton,3,3,False
+validation,1819,bacterial_blight in Cotton,3,3,False
+validation,1820,bacterial_blight in Cotton,3,3,False
+validation,1821,bacterial_blight in Cotton,3,3,False
+validation,1822,bacterial_blight in Cotton,3,3,False
+validation,1823,bacterial_blight in Cotton,3,3,False
+validation,1824,bacterial_blight in Cotton,3,3,False
+validation,1825,bacterial_blight in Cotton,3,3,False
+validation,1826,bacterial_blight in Cotton,3,3,False
+validation,1827,bacterial_blight in Cotton,3,3,False
+validation,1828,bacterial_blight in Cotton,3,3,False
+validation,1829,bacterial_blight in Cotton,3,3,False
+validation,1830,bacterial_blight in Cotton,3,3,False
+validation,1831,bacterial_blight in Cotton,3,3,False
+validation,1832,bacterial_blight in Cotton,3,3,False
+validation,1833,bacterial_blight in Cotton,3,3,False
+validation,1834,bacterial_blight in Cotton,3,3,False
+validation,1835,bacterial_blight in Cotton,3,3,False
+validation,1836,bacterial_blight in Cotton,3,3,False
+validation,1837,bacterial_blight in Cotton,3,3,False
+validation,1838,bacterial_blight in Cotton,3,3,False
+validation,1839,bacterial_blight in Cotton,3,3,False
+validation,1840,bacterial_blight in Cotton,3,3,False
+validation,1841,bacterial_blight in Cotton,3,3,False
+validation,1842,bacterial_blight in Cotton,3,3,False
+validation,1843,bacterial_blight in Cotton,3,3,False
+validation,1844,bacterial_blight in Cotton,3,3,False
+validation,1845,bacterial_blight in Cotton,3,3,False
+validation,1846,bacterial_blight in Cotton,3,3,False
+validation,1847,bacterial_blight in Cotton,3,3,False
+validation,1848,bacterial_blight in Cotton,3,3,False
+validation,1849,bacterial_blight in Cotton,3,3,False
+validation,1850,bacterial_blight in Cotton,3,3,False
+validation,1851,bacterial_blight in Cotton,3,3,False
+validation,1852,bacterial_blight in Cotton,3,3,False
+validation,1853,bacterial_blight in Cotton,3,3,False
+validation,1854,bacterial_blight in Cotton,3,3,False
+validation,1855,bacterial_blight in Cotton,3,3,False
+validation,1856,bacterial_blight in Cotton,3,3,False
+validation,1857,bacterial_blight in Cotton,3,3,False
+validation,1858,bacterial_blight in Cotton,3,3,False
+validation,1859,bacterial_blight in Cotton,3,3,False
+validation,1860,bacterial_blight in Cotton,3,3,False
+validation,1861,bacterial_blight in Cotton,3,3,False
+validation,1862,bacterial_blight in Cotton,3,3,False
+validation,1863,bacterial_blight in Cotton,3,3,False
+validation,1864,bacterial_blight in Cotton,3,3,False
+validation,1865,bacterial_blight in Cotton,3,3,False
+validation,1866,bacterial_blight in Cotton,3,3,False
+validation,1867,bacterial_blight in Cotton,3,3,False
+validation,1868,bacterial_blight in Cotton,3,3,False
+validation,1869,bacterial_blight in Cotton,3,3,False
+validation,1870,bacterial_blight in Cotton,3,3,False
+validation,1871,bacterial_blight in Cotton,3,3,False
+validation,1872,bacterial_blight in Cotton,3,3,False
+validation,1873,bacterial_blight in Cotton,3,3,False
+validation,1874,bacterial_blight in Cotton,3,3,False
+validation,1875,bacterial_blight in Cotton,3,3,False
+validation,1876,bacterial_blight in Cotton,3,3,False
+validation,1877,bacterial_blight in Cotton,3,3,False
+validation,1878,bacterial_blight in Cotton,3,3,False
+validation,1879,bacterial_blight in Cotton,3,3,False
+validation,1880,bacterial_blight in Cotton,3,3,False
+validation,1881,bacterial_blight in Cotton,3,3,False
+validation,1882,bacterial_blight in Cotton,3,3,False
+validation,1883,bacterial_blight in Cotton,3,3,False
+validation,1884,bacterial_blight in Cotton,3,3,False
+validation,1885,bacterial_blight in Cotton,3,3,False
+validation,1886,bacterial_blight in Cotton,3,3,False
+validation,1887,bacterial_blight in Cotton,3,3,False
+validation,1888,bacterial_blight in Cotton,3,3,False
+validation,1889,bacterial_blight in Cotton,3,3,False
+validation,1890,bacterial_blight in Cotton,3,3,False
+validation,1891,bacterial_blight in Cotton,3,3,False
+validation,1892,bacterial_blight in Cotton,3,3,False
+validation,1893,bacterial_blight in Cotton,3,3,False
+validation,1894,bacterial_blight in Cotton,3,3,False
+validation,1895,bacterial_blight in Cotton,3,3,False
+validation,1896,bacterial_blight in Cotton,3,3,False
+validation,1897,bacterial_blight in Cotton,3,3,False
+validation,1898,bacterial_blight in Cotton,3,3,False
+validation,1899,bacterial_blight in Cotton,3,3,False
+validation,1900,bacterial_blight in Cotton,3,3,False
+validation,1901,bacterial_blight in Cotton,3,3,False
+validation,1902,bacterial_blight in Cotton,3,3,False
+validation,1903,bacterial_blight in Cotton,3,3,False
+validation,1904,bacterial_blight in Cotton,3,3,False
+validation,1905,bacterial_blight in Cotton,3,3,False
+validation,1906,bacterial_blight in Cotton,3,3,False
+validation,1907,bacterial_blight in Cotton,3,3,False
+validation,1908,bacterial_blight in Cotton,3,3,False
+validation,1909,bacterial_blight in Cotton,3,3,False
+validation,1910,bacterial_blight in Cotton,3,3,False
+validation,1911,bacterial_blight in Cotton,3,3,False
+validation,1912,bacterial_blight in Cotton,3,3,False
+validation,1913,bacterial_blight in Cotton,3,3,False
+validation,1914,bacterial_blight in Cotton,3,3,False
+validation,1915,bacterial_blight in Cotton,3,3,False
+validation,1916,bacterial_blight in Cotton,3,3,False
+validation,1917,bacterial_blight in Cotton,3,3,False
+validation,1918,bacterial_blight in Cotton,3,3,False
+validation,1919,bacterial_blight in Cotton,3,3,False
+validation,1920,bacterial_blight in Cotton,3,3,False
+validation,1921,bacterial_blight in Cotton,3,3,False
+validation,1922,bacterial_blight in Cotton,3,3,False
+validation,1923,bacterial_blight in Cotton,3,3,False
+validation,1924,bacterial_blight in Cotton,3,3,False
+validation,1925,bacterial_blight in Cotton,3,3,False
+validation,1926,bacterial_blight in Cotton,3,3,False
+validation,1927,bacterial_blight in Cotton,3,3,False
+validation,1928,bacterial_blight in Cotton,3,3,False
+validation,1929,bacterial_blight in Cotton,3,3,False
+validation,1930,bacterial_blight in Cotton,3,3,False
+validation,1931,bacterial_blight in Cotton,3,3,False
+validation,1932,bacterial_blight in Cotton,3,3,False
+validation,1933,bacterial_blight in Cotton,3,3,False
+validation,1934,bacterial_blight in Cotton,3,3,False
+validation,1935,bacterial_blight in Cotton,3,3,False
+validation,1936,bacterial_blight in Cotton,3,3,False
+validation,1937,bacterial_blight in Cotton,3,3,False
+validation,1938,bacterial_blight in Cotton,3,3,False
+validation,1939,bacterial_blight in Cotton,3,3,False
+validation,1940,bacterial_blight in Cotton,3,3,False
+validation,1941,bacterial_blight in Cotton,3,3,False
+validation,1942,bacterial_blight in Cotton,3,3,False
+validation,1943,bacterial_blight in Cotton,3,3,False
+validation,1944,bacterial_blight in Cotton,3,3,False
+validation,1945,bacterial_blight in Cotton,3,3,False
+validation,1946,bacterial_blight in Cotton,3,3,False
+validation,1947,bacterial_blight in Cotton,3,3,False
+validation,1948,bacterial_blight in Cotton,3,3,False
+validation,1949,bacterial_blight in Cotton,3,3,False
+validation,1950,bacterial_blight in Cotton,3,3,False
+validation,1951,bacterial_blight in Cotton,3,3,False
+validation,1952,bacterial_blight in Cotton,3,3,False
+validation,1953,bacterial_blight in Cotton,3,3,False
+validation,1954,bacterial_blight in Cotton,3,3,False
+validation,1955,bacterial_blight in Cotton,3,3,False
+validation,1956,bacterial_blight in Cotton,3,3,False
+validation,1957,bacterial_blight in Cotton,3,3,False
+validation,1958,bacterial_blight in Cotton,3,3,False
+validation,1959,bacterial_blight in Cotton,3,3,False
+validation,1960,bacterial_blight in Cotton,3,3,False
+validation,1961,bacterial_blight in Cotton,3,3,False
+validation,1962,bacterial_blight in Cotton,3,3,False
+validation,1963,bacterial_blight in Cotton,3,3,False
+validation,1964,bacterial_blight in Cotton,3,3,False
+validation,1965,bacterial_blight in Cotton,3,3,False
+validation,1966,bacterial_blight in Cotton,3,3,False
+validation,1967,bacterial_blight in Cotton,3,3,False
+validation,1968,bacterial_blight in Cotton,3,3,False
+validation,1969,bacterial_blight in Cotton,3,3,False
+validation,1970,bacterial_blight in Cotton,3,3,False
+validation,1971,bacterial_blight in Cotton,3,3,False
+validation,1972,bacterial_blight in Cotton,3,3,False
+validation,1973,bacterial_blight in Cotton,3,3,False
+validation,1974,bacterial_blight in Cotton,3,3,False
+validation,1975,bacterial_blight in Cotton,3,3,False
+validation,1976,bacterial_blight in Cotton,3,3,False
+validation,1977,bacterial_blight in Cotton,3,3,False
+validation,1978,bacterial_blight in Cotton,3,3,False
+validation,1979,bacterial_blight in Cotton,3,3,False
+validation,1980,bacterial_blight in Cotton,3,3,False
+validation,1981,bacterial_blight in Cotton,3,3,False
+validation,1982,bacterial_blight in Cotton,3,3,False
+validation,1983,bacterial_blight in Cotton,3,3,False
+validation,1984,bacterial_blight in Cotton,3,3,False
+validation,1985,bacterial_blight in Cotton,3,3,False
+validation,1986,bacterial_blight in Cotton,3,3,False
+validation,1987,bacterial_blight in Cotton,3,3,False
+validation,1988,bacterial_blight in Cotton,3,3,False
+validation,1989,bacterial_blight in Cotton,3,3,False
+validation,1990,bacterial_blight in Cotton,3,3,False
+validation,1991,bacterial_blight in Cotton,3,3,False
+validation,1992,bacterial_blight in Cotton,3,3,False
+validation,1993,bacterial_blight in Cotton,3,3,False
+validation,1994,bacterial_blight in Cotton,3,3,False
+validation,1995,bacterial_blight in Cotton,3,3,False
+validation,1996,bacterial_blight in Cotton,3,3,False
+validation,1997,bacterial_blight in Cotton,3,3,False
+validation,1998,bacterial_blight in Cotton,3,3,False
+validation,1999,bacterial_blight in Cotton,3,3,False
+validation,2000,bacterial_blight in Cotton,3,3,False
+validation,2001,bacterial_blight in Cotton,3,3,False
+validation,2002,bacterial_blight in Cotton,3,3,False
+validation,2003,bacterial_blight in Cotton,3,3,False
+validation,2004,bacterial_blight in Cotton,3,3,False
+validation,2005,bacterial_blight in Cotton,3,3,False
+validation,2006,bacterial_blight in Cotton,3,3,False
+validation,2007,bacterial_blight in Cotton,3,3,False
+validation,2008,bacterial_blight in Cotton,3,3,False
+validation,2009,bacterial_blight in Cotton,3,3,False
+validation,2010,bacterial_blight in Cotton,3,3,False
+validation,2011,bacterial_blight in Cotton,3,3,False
