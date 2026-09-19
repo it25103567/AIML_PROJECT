@@ -1,0 +1,58 @@
+
+MEMBER 3 - CROP DISEASE AI
+DATA AUGMENTATION METHODOLOGY
+
+Input Dataset:
+The normalized training dataset produced by Member 2
+was used as the input dataset.
+
+Original Training Dataset:
+11,662 images
+
+Image Format:
+224 x 224 RGB
+
+Pixel Range:
+0 to 1
+
+Number of Classes:
+20
+
+Class Imbalance:
+The training dataset contained significant class imbalance.
+The class sizes ranged from 69 images to 1,640 images.
+
+Targeted Augmentation Strategy:
+Classes containing fewer than 500 original training images
+were selected for targeted augmentation.
+
+Number of Minority Classes:
+12
+
+Target:
+500 images per minority class.
+
+Additional Augmented Images Generated:
+3,160
+
+Augmentation Techniques:
+1. Horizontal flipping
+2. Random rotation
+3. Random zoom
+4. Random translation
+
+The augmented images were generated from the original
+training images belonging to the minority classes.
+
+Validation Data:
+Validation images were NOT augmented.
+
+Data Integrity:
+The original Member 2 dataset was not modified.
+Augmented data was stored separately in Member 3's
+Outputs folder.
+
+Augmentation Approach:
+Targeted augmented samples were saved separately as
+individual NumPy files to avoid loading the complete
+multi-gigabyte dataset into RAM.

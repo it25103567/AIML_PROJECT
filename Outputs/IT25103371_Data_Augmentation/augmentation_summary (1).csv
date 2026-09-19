@@ -1,0 +1,12 @@
+Item,Value
+Input Dataset,Member 02_IT25103229 normalized training dataset
+Original Training Images,11662
+Image Size,224 x 224
+Image Channels,RGB (3 channels)
+Pixel Range,0 - 1
+Number of Classes,20
+Minority Classes,12
+Target Count per Minority Class,500
+Additional Augmented Images,3160
+Final Training Images,14822
+Validation Augmentation,Not applied
