@@ -1,0 +1,21 @@
+Encoded Label,Class Name,Class_Weight
+0,Becterial Blight in Rice,0.3681186868686869
+1,Brownspot,0.35554878048780486
+2,Gray_Leaf_Spot,1.0158536585365854
+3,Healthy Maize,0.5018072289156627
+4,Healthy Wheat,3.2394444444444446
+5,Healthy cotton,1.372
+6,Mosaic sugarcane,1.2621212121212122
+7,RedRot sugarcane,0.9849662162162162
+8,Rice Blast,0.40493055555555557
+9,Sugarcane Healthy,1.1170498084291187
+10,Tungro,0.44579510703363917
+11,Wheat Stem fly,3.3901162790697676
+12,Wheat black rust,3.621739130434783
+13,Wheat powdery mildew,3.4502958579881655
+14,Wilt,1.3916467780429593
+15,bacterial_blight in Cotton,1.1924335378323108
+16,cotton mealy bug,6.33804347826087
+17,maize fall armyworm,5.449532710280374
+18,maize stem borer,6.137894736842105
+19,red cotton bug,8.450724637681159
