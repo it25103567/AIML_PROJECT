@@ -1,0 +1,21 @@
+Class,Original Count,Images To Generate,Final Count
+red cotton bug,69,431,500
+cotton mealy bug,92,408,500
+maize stem borer,95,405,500
+maize fall armyworm,107,393,500
+Wheat black rust,161,339,500
+Wheat powdery mildew,169,331,500
+Wheat Stem fly,172,328,500
+Healthy Wheat,180,320,500
+Wilt,419,81,500
+Healthy cotton,425,75,500
+Mosaic sugarcane,462,38,500
+bacterial_blight in Cotton,489,11,500
+Sugarcane Healthy,522,0,522
+Gray_Leaf_Spot,574,0,574
+RedRot sugarcane,592,0,592
+Healthy Maize,1162,0,1162
+Tungro,1308,0,1308
+Rice Blast,1440,0,1440
+Becterial Blight in Rice,1584,0,1584
+Brownspot,1640,0,1640
