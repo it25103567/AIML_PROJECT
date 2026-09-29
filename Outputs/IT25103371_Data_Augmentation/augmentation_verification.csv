@@ -1,0 +1,13 @@
+Class,Original Count,Expected Augmented,Actual Augmented,Final Count,Target,Difference
+red cotton bug,69,431,431,500,500,0
+cotton mealy bug,92,408,408,500,500,0
+maize stem borer,95,405,405,500,500,0
+maize fall armyworm,107,393,393,500,500,0
+Wheat black rust,161,339,339,500,500,0
+Wheat powdery mildew,169,331,331,500,500,0
+Wheat Stem fly,172,328,328,500,500,0
+Healthy Wheat,180,320,320,500,500,0
+Wilt,419,81,81,500,500,0
+Healthy cotton,425,75,75,500,500,0
+Mosaic sugarcane,462,38,38,500,500,0
+bacterial_blight in Cotton,489,11,11,500,500,0
